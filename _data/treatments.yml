@@ -1,23 +1,24 @@
 - icon: icon-user-md
-  title: Invisible braces
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  title: Registration Deadline
+  description: January 2, 2016
 
 - icon: icon-diamond
-  title: Cosmetic Dentistry
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
-
-- icon: icon-flask
-  title: Stain removal
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-
-- icon: icon-globe
-  title: Dentures
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
-
-- icon: icon-ambulance
-  title: Emergency Calls
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  title: Game Times
+  description: Sundays 9am and 4pm<br/>January 24 - March 6, 2016
 
 - icon: icon-bed
-  title: Sedation
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  title: Team Fee
+  description: $455.00
+
+- icon: icon-flask
+  title: Genders
+  description: Men, Women, Coed
+
+- icon: icon-globe
+  title: Divisions
+  description: Premier, Select Green, Select Yellow
+
+- icon: icon-ambulance
+  title: 7v7
+  description: Seven (7) players on field per team
+

@@ -7,13 +7,19 @@
     @include breakpoint(small) {
         display: flex;
     }
-    [class^="col-"] {
-        padding: $space*3 $space;
+    a {
         color: $white;
+        display: block;
+        padding: $space*3 $space;
         @include breakpoint(medium) {
-           padding-left: $space*3; 
+           padding-left: $space*3;
            padding-right: $space*3;
         }
+        &:hover {
+            text-decoration: none;
+        }
+    }
+    [class^="col-"] {
         &:nth-child(1) {
             background: $colorPrimary;
         }
@@ -26,7 +32,6 @@
     }
     .icon {
         font-size: 2rem;
-        color: $white;
     }
     h3 {
         color: $white;

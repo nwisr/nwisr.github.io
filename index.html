@@ -3,20 +3,34 @@ layout: default
 ---
 
 <!-- Start Hero -->
-<div class="hero" style="background: url('{{ site.baseurl }}/img/{{ site.hero.hero_img }}') no-repeat; background-size: cover;">
-    <div class="hero-content">
+<div class="hero" style="background: url('{{ site.baseurl }}/img/{{ site.hero.hero_bg }}') no-repeat top right; xbackground-size: cover;">
+    <div class="hero-content" style="background: url('{{ site.baseurl }}/img/{{ site.hero.hero_img }}') no-repeat top right; xbackground-size: cover;">
+        <a class="logo" href="{{ site.baaseurl }}">
+          <img src="/img/logo.jpg" width="275" height="200" alt="Metro PDX Soccer">
+        </a>
+<!--
         <div class="container-fluid">
             <div class="hero-content-inner">
                 <h1>{{ site.hero.hero_title }}</h1>
                 <p>{{ site.hero.hero_description }}</p>
             </div>
         </div>
-    </div>
+ -->    </div>
 
-    <div class="container-fluid">
-        
-        <div class="col-sm-6 col-sm-offset-6 col-md-4 col-md-offset-8 form">
-            <h3><svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>Make an Appointment</h3>
+<!--     <div class="container-fluid form">
+        <div class="col-sm6 col-md4">
+            <img src="/img/logo.jpg"/>
+        </div>
+    </div>
+ -->
+
+
+<!--     <div class="container-fluid">
+
+        <div class="col-sm-6 col-md-4 form">
+            <img src="/img/logo.jpg"/>
+ -->
+ <!--             <h3><svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>Make an Appointment</h3>
             <form action="https://getsimpleform.com/messages?form_api_token={{ site.api_token }}" method="post">
                 <div class="form-field">
                     <input name="name" type="text" placeholder="Name" required>
@@ -32,49 +46,42 @@ layout: default
                 </div>
                 <input type="submit" class="btn btn-default" value="Send">
             </form>
-        </div>
+ -->
+<!--         </div>
 
     </div>
+ -->
 </div>
 <!-- End Hero -->
 
 <!-- Start 3 columns -->
 <div class="three-shade-col">
     <div class="col-sm-4">
-        <svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>
-        <h3>Contact Us</h3>
-        <ul>
-            {% if site.contact.phone %}<li><strong>Phone:</strong> {{ site.contact.phone }}</li>{% endif %}
-            {% if site.contact.emergency %}<li><strong>Emergency:</strong> {{ site.contact.emergency }}</li>{% endif %}
-            {% if site.contact.email %}<li><strong>Email:</strong> {{ site.contact.email }}</li>{% endif %}
-        </ul>
+        <a class="scroll" href="#season">
+            <svg class="icon icon-clock-o"><use xlink:href="#icon-clock-o"></use></svg>
+            <h3>Registration</h3>
+            <ul>
+                <li><strong>Deadline:</strong> {{ site.data.season.info.deadline }}</li>
+            </ul>
+        </a>
     </div>
     <div class="col-sm-4">
-        <svg class="icon icon-clock-o"><use xlink:href="#icon-clock-o"></use></svg>
-        <h3>Opening Hours</h3>
-        <table>
-            <tbody>
-                <tr>
-                    <td>Monday – Friday</td>
-                    <td>{{ site.monday_friday }}</td>
-                </tr>
-                <tr>
-                    <td>Saturday</td>
-                    <td>{{ site.saturday }}</td>
-                </tr>
-                <tr>
-                    <td>Sunday</td>
-                    <td>{{ site.sunday }}</td>
-                </tr>
-            </tbody>
-        </table>
+        <a class="scroll" href="#schedules">
+            <svg class="icon icon-map-marker"><use xlink:href="#icon-map-marker"></use></svg>
+            <h3>Schedules</h3>
+            <ul>
+                <li>{{ site.data.season.info.start }} - {{ site.data.season.info.end }}</li>
+            </ul>
+        </a>
     </div>
     <div class="col-sm-4">
-        <svg class="icon icon-map-marker"><use xlink:href="#icon-map-marker"></use></svg>
-        <h3>Location</h3>
-            <p>
-                {{ site.contact.address }}
-            </p>
+        <a class="scroll" href="#mailing">
+            <svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>
+            <h3>Stay Informed</h3>
+            <ul>
+                <li>Join our mailing list</li>
+            </ul>
+        </a>
     </div>
 </div>
 <!-- End 3 columns -->
@@ -82,12 +89,14 @@ layout: default
 <!-- Start About -->
 <div id="about" class="about">
     <div class="container-fluid">
-        <h2 class="section-title">About Us</h2>
+        <h2 class="section-title">About the League</h2>
 
         <div class="row">
             <div class="col-sm-6">
-                <h3>Welcome to DentistSmile</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis nostrum ab vero temporibus magnam, delectus!</p>
+                <h3>Welcome to Metro PDX Soccer</h3>
+                <p>
+                    We are a nimble league interested in offering the best service to teams and players! We offer flexibility with each division self-governing within the framework of the overall league. If there are any desirable features, we have the ability to customize to your needs.
+                </p>
 
                 <div class="media">
                     <div class="media-left">
@@ -96,18 +105,7 @@ layout: default
                         </div>
                     </div>
                     <div class="media-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam explicabo unde doloremque quo, fugit, nisi.</p>
-                    </div>
-                </div>
-
-                <div class="media">
-                    <div class="media-left">
-                        <div class="boxed-icon">
-                            <svg class="icon icon-medkit"><use xlink:href="#icon-medkit"></use></svg>
-                        </div>
-                    </div>
-                    <div class="media-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam explicabo unde doloremque quo, fugit, nisi.</p>
+                        <p>We love our teams and players and do whatever we can to provide a rewarding experience</p>
                     </div>
                 </div>
 
@@ -115,6 +113,17 @@ layout: default
                     <div class="media-left">
                         <div class="boxed-icon">
                             <svg class="icon icon-star"><use xlink:href="#icon-star"></use></svg>
+                        </div>
+                    </div>
+                    <div class="media-body">
+                        <p>We provide the best value and customer service with the lowest price in the region</p>
+                    </div>
+                </div>
+
+                <div class="media">
+                    <div class="media-left">
+                        <div class="boxed-icon">
+                            <svg class="icon icon-medkit"><use xlink:href="#icon-medkit"></use></svg>
                         </div>
                     </div>
                     <div class="media-body">
@@ -131,28 +140,76 @@ layout: default
 <!-- End About -->
 
 <!-- Start Treatments -->
-<div id="treatments" class="treatments">
+<div id="season" class="treatments">
     <div class="container-fluid">
-        <h2 class="section-title">Treatments</h2>
+        <h2 class="section-title">{{ site.data.season.info.name }}</h2>
 
         <div class="row">
-            {% for treatment in site.data.treatments %}
-                <div class="col-sm-6 col-md-4">
-                    <div class="icon-box">
-                        <svg class="icon {{ treatment.icon }}"><use xlink:href="#{{ treatment.icon }}"></use></svg>
-                        <h4>{{ treatment.title }}</h4>
-                        <p>{{ treatment.description }}</p>
-                    </div>
+            <div class="col-sm-6 col-md-4">
+                <div class="icon-box">
+                    <svg class="icon icon-clock-o"><use xlink:href="#icon-clock-o"></use></svg>
+                    <h4>Registration Deadline</h4>
+                    <p>
+                        {{ site.data.season.info.deadline }}<br/>
+                        Early registration guarantees your spot!
+                    </p>
                 </div>
-            {% endfor %}
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <div class="icon-box">
+                    <svg class="icon icon-bed"><use xlink:href="#icon-bed"></use></svg>
+                    <h4>Team Fee</h4>
+                    <p>
+                        <strong>{{ site.data.season.info.fee }}</strong><br/>
+                        for {{ site.data.season.info.numberGames }} games
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <div class="icon-box">
+                    <svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg>
+                    <h4>Game Times</h4>
+                    <p>
+                        {{ site.data.season.info.days }} {{ site.data.season.info.times }}<br/>
+                        {{ site.data.season.info.start }} - {{ site.data.season.info.end }}<br/>
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <div class="icon-box">
+                    <svg class="icon icon-map-marker"><use xlink:href="#icon-map-marker"></use></svg>
+                    <h4>Location</h4>
+                    <p>
+                        {{ site.data.season.info.location.name }}<br/>
+                        {{ site.data.season.info.location.street }}, {{ site.data.season.info.location.city }} {{ site.data.season.info.location.state }} {{ site.data.season.info.location.zip }}<br/>
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <div class="icon-box">
+                    <svg class="icon icon-globe"><use xlink:href="#icon-globe"></use></svg>
+                    <h4>Player Cards</h4>
+                    <p>All players must have valid OASA player cards</p>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <div class="icon-box">
+                    <svg class="icon icon-ambulance"><use xlink:href="#icon-ambulance"></use></svg>
+                    <h4>7v7</h4>
+                    <p>Seven players per team</p>
+                </div>
+            </div>
         </div>
+    </div>
+    <div class="container-fluid">
+        <iframe src="https://docs.google.com/forms/d/1cutOphONmQi4W3iWMbv9VA1QTlpI-UhXeiCxK6b1d_U/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
     </div>
 </div>
 <!-- End Treatments -->
 
 <!-- Start Our team -->
-<div id="team" class="team"> 
-    <h2 class="section-title">Our Team</h2> 
+<div id="team" class="team">
+    <h2 class="section-title">Our Team</h2>
     <div id="team-carousel">
     {% for member in site.data.team %}
         <div class="expandable-box">
@@ -196,7 +253,7 @@ layout: default
 
 <!-- Start Gallery -->
 <div id="gallery" class="gallery">
-        
+
     <h2 class="section-title">Gallery</h2>
 
     {% for images in site.data.gallery %}
@@ -213,6 +270,111 @@ layout: default
 </div>
 <!-- End Gallery -->
 
+<!-- Start 3 columns -->
+<div class="three-shade-col">
+    <div class="col-sm-4">
+        <svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>
+        <h3>Contact Us</h3>
+        <ul>
+            {% if site.contact.phone %}<li><strong>Phone:</strong> {{ site.contact.phone }}</li>{% endif %}
+            {% if site.contact.email %}<li><strong>Email:</strong> {{ site.contact.email }}</li>{% endif %}
+        </ul>
+    </div>
+    <div class="col-sm-4">
+        <svg class="icon icon-clock-o"><use xlink:href="#icon-clock-o"></use></svg>
+        <h3>Registration</h3>
+        <table>
+            <tbody>
+                {% for division in site.data.divisions %}
+                <tr>
+                    <td>{{ division.title }}</td>
+                    <td>{{ division.price }}</td>
+                </tr>
+                {% endfor %}
+        </tbody>
+        </table>
+    </div>
+    <div class="col-sm-4">
+        <svg class="icon icon-map-marker"><use xlink:href="#icon-map-marker"></use></svg>
+        <h3>Location</h3>
+            <p>
+                {{ site.map.address }}
+            </p>
+    </div>
+</div>
+<!-- End 3 columns -->
+
 <!-- Start Map -->
-<div id="location" class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.map.address }}" data-address-details="<img src='{{ site.map.address_details }}'>"></div>
+<div id="location" class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.data.season.info.location.street }} {{ site.data.season.info.location.city }} {{ site.data.season.info.location.state }} {{ site.data.season.info.location.zip }}" data-address-details="{{ site.data.season.info.location.name }}"></div>
 <!-- End Map -->
+
+<!-- Start Schedules -->
+<div id="schedules" style="width: 99%;" class="sz-widget"></div>
+<script type="text/javascript" src="//sportzing.com/web/dist/sz-0.1.9.min.js"></script><script type="text/javascript">
+  SZ.start({widget:'schedules', selector:'#schedules', token: 'tstg1'});
+</script>
+<!-- End Schedules -->
+
+
+        <div class="row">
+            {% capture leagues %}{% include leagues.md %}{% endcapture %}
+            {{ leagues | markdownify }}
+        </div>
+        <div class="row">
+            <table>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        {% for group in site.data.divisions.groups %}
+                        <td>{{ group }}</td>
+                        {% endfor %}
+                    </tr>
+                    <tr>
+                        <td>Divisions</td>
+                        {% for div in site.data.divisions.groups %}
+                        <td>
+                            {% for division in site.data.divisions.info.divisions %}
+                            {{ division}}<br/>
+                            {% endfor %}
+                        </td>
+                        {% endfor %}
+                    </tr>
+                    <tr>
+                        <td>Registration Deadline</td>
+                        {% for div in site.data.divisions.groups %}
+                        <td>{{ site.data.divisions.info.deadline }}</td>
+                        {% endfor %}
+                    </tr>
+                    <tr>
+                        <td>Season Starts</td>
+                        {% for div in site.data.divisions.groups %}
+                        <td>{{ site.data.divisions.info.start }}</td>
+                        {% endfor %}
+                    </tr>
+                    <tr>
+                        <td>Season Ends</td>
+                        {% for div in site.data.divisions.groups %}
+                        <td>{{ site.data.divisions.info.end }}</td>
+                        {% endfor %}
+                    </tr>
+                    <tr>
+                        <td>Game Days</td>
+                        {% for div in site.data.divisions.groups %}
+                        <td>{{ site.data.divisions.info.days }}</td>
+                        {% endfor %}
+                    </tr>
+                    <tr>
+                        <td>Game Times</td>
+                        {% for div in site.data.divisions.groups %}
+                        <td>{{ site.data.divisions.info.times }}</td>
+                        {% endfor %}
+                    </tr>
+                    <tr>
+                        <td>Team Fee</td>
+                        {% for div in site.data.divisions.groups %}
+                        <td>{{ site.data.divisions.info.price }}</td>
+                        {% endfor %}
+                    </tr>
+                </tbody>
+            </table>
+        </div>

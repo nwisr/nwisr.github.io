@@ -1,12 +1,16 @@
 /* EXPANDABLE BOX
 -------------------------------------------------*/
+.season h3,
 .expandable-box {
+    display: block;
     position: relative;
     padding: 0;
     text-align: center;
 }
 
+.season p,
 .expandable-box-top {
+    display: block;
     transform: translate(0px, 0px);
     transition: transform 250ms linear;
     .expandable-box:hover & {
@@ -49,3 +53,4 @@
         font-size: 1.5rem;
     }
 }
+

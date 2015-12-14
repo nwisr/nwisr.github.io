@@ -10,7 +10,7 @@ module.exports = function (grunt) {
             dist: {
                 src: ['js/bootstrap.js', 'js/owl.carousel.js', 'js/jquery.magnific-popup.js', 'js/gmap3.js', 'js/custom.js'],
                 dest: 'js/all.js'
-            } 
+            }
         },
 
         uglify: {
@@ -41,12 +41,12 @@ module.exports = function (grunt) {
 
         shell : {
             jekyllServe : {
-                command : 'jekyll serve'
+                command : 'jekyll serve --no-watch'
             },
 
             jekyllBuild : {
                 command : 'jekyll build'
-            }  
+            }
         },
 
         svgmin: {
@@ -85,7 +85,7 @@ module.exports = function (grunt) {
                 tasks: ['concat', 'uglify', 'shell:jekyllBuild']
             },
             site: {
-                files: ['**/*.html', '_layouts/*.html', '_posts/*.markdown', '_includes/*.html', '_config.yml', 'js/**/*.js', '_data/*.yml'],
+                files: ['**/*.html', '_layouts/*.html', '_posts/*.markdown', '_posts/*.md', '_includes/*.html', '_includes/*.md', '_config.yml', 'js/**/*.js', '_data/*.yml'],
                 tasks: ['shell:jekyllBuild']
             },
             svgIcons: {

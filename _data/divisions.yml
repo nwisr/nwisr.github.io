@@ -1,0 +1,15 @@
+groups:
+  - Men
+  - Women
+  - Coed
+info:
+  divisions:
+    - Premier
+    - Select Green
+    - Select Yellow
+  deadline: Jan 2, 2016
+  start: Jan 24, 2016
+  end: Mar 6, 2016
+  days: Sundays
+  times: 9am - 4pm
+  price: $455.00

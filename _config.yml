@@ -1,14 +1,17 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
+title: Metro PDX Soccer
 description: "A responsive Jekyll theme for dental clinics."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
-logo_url: svg/min/logo.svg
+logo:
+    url: svg/min/logo.svg
 
 # Hero
-hero: 
-    hero_img: hero.jpg
-    hero_title: DentistSmile
+hero:
+    hero_bg: bannerbg.jpg
+    hero_img: banner.jpg
+    hero_logo: logo.jpg
+    hero_title: Metro PDX Soccer
     hero_description: A responsive Jekyll theme for dental clinics.
 
 # Contact form
@@ -17,9 +20,7 @@ api_token: # Enter API token here
 # Contact info
 contact:
     phone: 932 50 540
-    emergency: 931 53 234
     email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
 
 # Opening hours
 monday_friday: 9:00 – 18:00
@@ -32,20 +33,21 @@ testimonials:
 
 # Map
 map:
-    zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
+    zoom: 14
+    address: 11999 Southeast Fuller Road, Milwaukie, OR 97222
     address_details: svg/min/logo.svg
 
 # Social settings
-facebook: http://facebook.com
-twitter: http://twitter.com
-instagram: http://instagram.com
-youtube: http://youtube.com
-skype: skype:obaez_design?userinfo
-feed: yes
+social:
+    facebook: http://facebook.com
+    twitter: http://twitter.com
+    instagram: http://instagram.com
+    youtube: http://youtube.com
+    skype: skype:obaez_design?userinfo
+    feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2015 MetroPDXSoccer - All rights reserved
 
 # Build settings
 markdown: kramdown
@@ -61,5 +63,5 @@ exclude: [
 ]
 
 # Theme Settings
-analytics: 
+analytics:
 google_verification:

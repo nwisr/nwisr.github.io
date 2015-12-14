@@ -1,11 +1,13 @@
 /* FORM
 -------------------------------------------------*/
 .form {
-    padding: $spaceDouble $space;
-    background: $colorBg;
-    @include breakpoint(small) {
-        padding: $spaceDouble*2 $space;
-    }
+
+    .foobar {}
+    // padding: $spaceDouble $space;
+    // background: $colorBg;
+    // @include breakpoint(small) {
+    //     padding: $spaceDouble*2 $space;
+    // }
     input,
     textarea {
         @extend %form-fields;
