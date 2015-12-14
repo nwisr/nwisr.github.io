@@ -3,8 +3,8 @@ layout: default
 ---
 
 <!-- Start Hero -->
-<div class="hero" style="background: url('{{ site.baseurl }}/img/{{ site.hero.hero_bg }}') no-repeat top right; xbackground-size: cover;">
-    <div class="hero-content" style="background: url('{{ site.baseurl }}/img/{{ site.hero.hero_img }}') no-repeat top right; xbackground-size: cover;">
+<div class="hero" style="background: url('{{ site.baseurl }}/img/{{ site.hero.hero_bg }}') repeat-x;">
+    <div class="hero-content" style="background: url('{{ site.baseurl }}/img/{{ site.hero.hero_img }}') no-repeat top right;">
         <a class="logo" href="{{ site.baaseurl }}">
           <img src="/img/logo.jpg" width="275" height="200" alt="Metro PDX Soccer">
         </a>
@@ -270,40 +270,6 @@ layout: default
 </div>
 <!-- End Gallery -->
 
-<!-- Start 3 columns -->
-<div class="three-shade-col">
-    <div class="col-sm-4">
-        <svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>
-        <h3>Contact Us</h3>
-        <ul>
-            {% if site.contact.phone %}<li><strong>Phone:</strong> {{ site.contact.phone }}</li>{% endif %}
-            {% if site.contact.email %}<li><strong>Email:</strong> {{ site.contact.email }}</li>{% endif %}
-        </ul>
-    </div>
-    <div class="col-sm-4">
-        <svg class="icon icon-clock-o"><use xlink:href="#icon-clock-o"></use></svg>
-        <h3>Registration</h3>
-        <table>
-            <tbody>
-                {% for division in site.data.divisions %}
-                <tr>
-                    <td>{{ division.title }}</td>
-                    <td>{{ division.price }}</td>
-                </tr>
-                {% endfor %}
-        </tbody>
-        </table>
-    </div>
-    <div class="col-sm-4">
-        <svg class="icon icon-map-marker"><use xlink:href="#icon-map-marker"></use></svg>
-        <h3>Location</h3>
-            <p>
-                {{ site.map.address }}
-            </p>
-    </div>
-</div>
-<!-- End 3 columns -->
-
 <!-- Start Map -->
 <div id="location" class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.data.season.info.location.street }} {{ site.data.season.info.location.city }} {{ site.data.season.info.location.state }} {{ site.data.season.info.location.zip }}" data-address-details="{{ site.data.season.info.location.name }}"></div>
 <!-- End Map -->
@@ -314,67 +280,3 @@ layout: default
   SZ.start({widget:'schedules', selector:'#schedules', token: 'tstg1'});
 </script>
 <!-- End Schedules -->
-
-
-        <div class="row">
-            {% capture leagues %}{% include leagues.md %}{% endcapture %}
-            {{ leagues | markdownify }}
-        </div>
-        <div class="row">
-            <table>
-                <tbody>
-                    <tr>
-                        <td></td>
-                        {% for group in site.data.divisions.groups %}
-                        <td>{{ group }}</td>
-                        {% endfor %}
-                    </tr>
-                    <tr>
-                        <td>Divisions</td>
-                        {% for div in site.data.divisions.groups %}
-                        <td>
-                            {% for division in site.data.divisions.info.divisions %}
-                            {{ division}}<br/>
-                            {% endfor %}
-                        </td>
-                        {% endfor %}
-                    </tr>
-                    <tr>
-                        <td>Registration Deadline</td>
-                        {% for div in site.data.divisions.groups %}
-                        <td>{{ site.data.divisions.info.deadline }}</td>
-                        {% endfor %}
-                    </tr>
-                    <tr>
-                        <td>Season Starts</td>
-                        {% for div in site.data.divisions.groups %}
-                        <td>{{ site.data.divisions.info.start }}</td>
-                        {% endfor %}
-                    </tr>
-                    <tr>
-                        <td>Season Ends</td>
-                        {% for div in site.data.divisions.groups %}
-                        <td>{{ site.data.divisions.info.end }}</td>
-                        {% endfor %}
-                    </tr>
-                    <tr>
-                        <td>Game Days</td>
-                        {% for div in site.data.divisions.groups %}
-                        <td>{{ site.data.divisions.info.days }}</td>
-                        {% endfor %}
-                    </tr>
-                    <tr>
-                        <td>Game Times</td>
-                        {% for div in site.data.divisions.groups %}
-                        <td>{{ site.data.divisions.info.times }}</td>
-                        {% endfor %}
-                    </tr>
-                    <tr>
-                        <td>Team Fee</td>
-                        {% for div in site.data.divisions.groups %}
-                        <td>{{ site.data.divisions.info.price }}</td>
-                        {% endfor %}
-                    </tr>
-                </tbody>
-            </table>
-        </div>

@@ -1,9 +1,9 @@
 /* HERO
 -------------------------------------------------*/
 .hero {
+    @extend %clearfix;
     // position: relative;
     margin-top: 70px;
-    height: 300px;
     // .container-fluid {
     //     position: relative;
     // }
@@ -15,6 +15,7 @@
 }
 
 .hero-content {
+    height: 200px;
     .logo {
         float: left;
         margin: 0 0 16px;

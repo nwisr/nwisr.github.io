@@ -21,14 +21,17 @@ $white: #fff;
 $black: #000;
 $grey: #333;
 $greyLight: #555;
+$greyLighter: #ccc;
 $gallery: #eee;
 $alto: #ddd;
 $mercury: #e9e9e9;
 $alabaster: #f7f7f7;
 $pelorous: #3dadb2;
+$deepOrange: #f1490a;
+$orange: #f7ad1a;
 
 /* Color usage */
-$colorPrimary: $pelorous;
+$colorPrimary: $orange;
 $colorHeading: $grey;
 $colorBase: $greyLight;
 $colorBg: $alabaster;
@@ -69,9 +72,11 @@ $navbar-margin-bottom: 0;
 $navbar-border-radius: none;
 $navbar-padding-horizontal: 0;
 
-$navbar-default-color: $white;
-$navbar-default-bg: $white;
-$navbar-default-border: none;
+// $navbar-default-color: $greyLight;
+// $navbar-default-bg: $white;
+// $navbar-default-border: none;
+// $navbar-default-link-color: $greyLighter;
+$navbar-inverse-link-active-bg: $deepOrange;
 
 // Navbar collapse
 $grid-float-breakpoint: $screen-md;
