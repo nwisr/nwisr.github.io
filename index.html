@@ -81,7 +81,7 @@ layout: default
                 <div class="media">
                     <div class="media-left">
                         <div class="boxed-icon">
-                            <svg class="icon icon-leaf"><use xlink:href="#icon-leaf"></use></svg>
+                            <svg class="icon icon-trophy"><use xlink:href="#icon-trophy"></use></svg>
                         </div>
                     </div>
                     <div class="media-body">
@@ -102,7 +102,7 @@ layout: default
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-8">
-                <h3>Contact Us</h3>
+                <h3>Contact Eric</h3>
                 <p>
                     We are a nimble league interested in offering the best service to teams and players! We offer flexibility with each division self-governing within the framework of the overall league. If there are any desirable features, we have the ability to customize to your needs.
                 </p>
@@ -145,7 +145,7 @@ layout: default
                     <h4>Team Fee</h4>
                     <p>
                         <strong>{{ site.data.season.info.fee }}</strong><br/>
-                        for {{ site.data.season.info.numberGames }} games
+                        Each team plays {{ site.data.season.info.numberGames }} games
                     </p>
                 </div>
             </div>
@@ -173,14 +173,17 @@ layout: default
                 <div class="icon-box">
                     <svg class="icon icon-globe"><use xlink:href="#icon-globe"></use></svg>
                     <h4>Player Cards</h4>
-                    <p>All players must have valid OASA player cards</p>
+                    <p>Valid OASA player cards required</p>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="icon-box">
                     <svg class="icon icon-ambulance"><use xlink:href="#icon-ambulance"></use></svg>
-                    <h4>7v7</h4>
-                    <p>Seven players per team</p>
+                    <h4>More</h4>
+                    <p>
+                        7v7 - seven players per team<br/>
+                        1st and 2nd place trophies
+                    </p>
                 </div>
             </div>
         </div>
@@ -260,7 +263,7 @@ layout: default
 <!-- End Map -->
 
 <!-- Start Schedules -->
-<div id="schedules" style="width: 99%;" class="sz-widget"></div>
+<div id="schedules" class="sz-widget"></div>
 <script type="text/javascript" src="//sportzing.com/web/dist/sz-0.1.9.min.js"></script><script type="text/javascript">
   SZ.start({widget:'schedules', selector:'#schedules', token: 'tstg1'});
 </script>
