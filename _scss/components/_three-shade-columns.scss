@@ -21,13 +21,13 @@
     }
     [class^="col-"] {
         &:nth-child(1) {
-            background: $colorPrimary;
+            background: lighten($colorPrimary, 10%);
         }
         &:nth-child(2) {
-            background: lighten($colorPrimary, 2%);
+            background: lighten($colorPrimary, 5%);
         }
         &:nth-child(3) {
-            background: lighten($colorPrimary, 4%);
+            background: lighten($colorPrimary, 10%);
         }
     }
     .icon {

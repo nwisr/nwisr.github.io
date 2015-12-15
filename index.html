@@ -33,7 +33,7 @@ layout: default
         </a>
     </div>
     <div class="col-sm-4">
-        <a class="scroll" href="#mailing">
+        <a class="scroll" href="#contact">
             <svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>
             <h3>Stay Informed</h3>
             <ul>
@@ -47,13 +47,13 @@ layout: default
 <!-- Start About -->
 <div id="about" class="about">
     <div class="container-fluid">
-        <h2 class="section-title">About the League</h2>
+        <h2 class="section-title">About the 7v7 League</h2>
 
         <div class="row">
             <div class="col-sm-6">
                 <h3>Welcome to Metro PDX Soccer</h3>
                 <p>
-                    We are a nimble league interested in offering the best service to teams and players! We offer flexibility with each division self-governing within the framework of the overall league. If there are any desirable features, we have the ability to customize to your needs.
+                    We are a nimble league offering the best service to teams and players! We offer flexibility with each division self-governing within the framework of the overall league. If there are any desirable features, we have the ability to customize to your needs.
                 </p>
 
                 <div class="media">
@@ -81,7 +81,7 @@ layout: default
                 <div class="media">
                     <div class="media-left">
                         <div class="boxed-icon">
-                            <svg class="icon icon-trophy"><use xlink:href="#icon-trophy"></use></svg>
+                            <svg class="icon icon-diamond"><use xlink:href="#icon-diamond"></use></svg>
                         </div>
                     </div>
                     <div class="media-body">
@@ -102,13 +102,11 @@ layout: default
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-8">
-                <h3>Contact Eric</h3>
-                <p>
-                    We are a nimble league interested in offering the best service to teams and players! We offer flexibility with each division self-governing within the framework of the overall league. If there are any desirable features, we have the ability to customize to your needs.
-                </p>
+                <h3><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg>Contact Eric</h3>
+                <p>Please contact Eric Beck, the leauge administrator, with any questions. He is available by phone between the hours of 8AM and 4PM at 503-662-8182. Payments may be mailed to 2169 SE Scott Avenue, Gresham OR 97080</p>
             </div>
             <div class="col-sm-4">
-                <h3><svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>Subsribe to Newsletter</h3>
+                <h3><svg class="icon icon-envelope"><use xlink:href="#icon-envelope"></use></svg>Subsribe to Newsletter</h3>
                 <form action="https://getsimpleform.com/messages?form_api_token={{ site.api_token }}" method="post">
                     <div class="form-field">
                         <input name="name" type="text" placeholder="Name" required>
@@ -123,6 +121,31 @@ layout: default
     </div>
 </div>
 <!-- End Contact -->
+
+<!-- Start Testimonials -->
+<div id="testimonials" class="testimonials parallax" style="background-image: url('{{ site.baseurl }}/img/{{ site.testimonials.testimonials_img }}');">
+    <div class="overlay-container">
+        <div class="overlay"></div>
+        <div class="container-fluid">
+            <div id="testimonial-carousel">
+                {% for testimonial in site.data.testimonials %}
+                    <div class="testimonial-item">
+                        <svg class="icon icon-quote-left"><use xlink:href="#icon-quote-left"></use></svg>
+                        <blockquote>
+                            <p>{{ testimonial.description }}</p>
+                            <footer>
+                                {{ testimonial.name }}
+                                <small>{{ testimonial.title }}</small>
+                            </footer>
+                        </blockquote>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Testimonials -->
+
 <!-- Start Treatments -->
 <div id="season" class="treatments">
     <div class="container-fluid">
@@ -141,11 +164,11 @@ layout: default
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="icon-box">
-                    <svg class="icon icon-bed"><use xlink:href="#icon-bed"></use></svg>
+                    <svg class="icon icon-group"><use xlink:href="#icon-group"></use></svg>
                     <h4>Team Fee</h4>
                     <p>
                         <strong>{{ site.data.season.info.fee }}</strong><br/>
-                        Each team plays {{ site.data.season.info.numberGames }} games
+                        Each team of 7 players plays {{ site.data.season.info.numberGames }} games
                     </p>
                 </div>
             </div>
@@ -171,18 +194,19 @@ layout: default
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="icon-box">
-                    <svg class="icon icon-globe"><use xlink:href="#icon-globe"></use></svg>
-                    <h4>Player Cards</h4>
-                    <p>Valid OASA player cards required</p>
+                    <svg class="icon icon-bolt"><use xlink:href="#icon-bolt"></use></svg>
+                    <h4>Requirements</h4>
+                    <p>
+                    Valid OASA player cards required<br/>
+                    Bring <a href="http://oregonadultsoccer.com/PDF%20others/Forms/Match%20Roster%20Form.pdf">Team Roster</a> to each game</p>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="icon-box">
-                    <svg class="icon icon-ambulance"><use xlink:href="#icon-ambulance"></use></svg>
-                    <h4>More</h4>
+                    <svg class="icon icon-trophy"><use xlink:href="#icon-trophy"></use></svg>
+                    <h4>Trophies</h4>
                     <p>
-                        7v7 - seven players per team<br/>
-                        1st and 2nd place trophies
+                        1st and 2nd place trophies per division
                     </p>
                 </div>
             </div>
@@ -214,30 +238,6 @@ layout: default
 </div> -->
 <!-- End Our team -->
 
-<!-- Start Testimonials -->
-<div id="testimonials" class="testimonials parallax" style="background-image: url('{{ site.baseurl }}/img/{{ site.testimonials.testimonials_img }}');">
-    <div class="overlay-container">
-        <div class="overlay"></div>
-        <div class="container-fluid">
-            <div id="testimonial-carousel">
-                {% for testimonial in site.data.testimonials %}
-                    <div class="testimonial-item">
-                        <svg class="icon icon-quote-left"><use xlink:href="#icon-quote-left"></use></svg>
-                        <blockquote>
-                            <p>{{ testimonial.description }}</p>
-                            <footer>
-                                {{ testimonial.name }}
-                                <small>{{ testimonial.title }}</small>
-                            </footer>
-                        </blockquote>
-                    </div>
-                {% endfor %}
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Testimonials -->
-
 <!-- Start Gallery -->
 <!-- <div id="gallery" class="gallery">
 
@@ -263,8 +263,11 @@ layout: default
 <!-- End Map -->
 
 <!-- Start Schedules -->
-<div id="schedules" class="sz-widget"></div>
-<script type="text/javascript" src="//sportzing.com/web/dist/sz-0.1.9.min.js"></script><script type="text/javascript">
-  SZ.start({widget:'schedules', selector:'#schedules', token: 'tstg1'});
-</script>
+<div id="schedules" class="schedules"></div>
+    <h2 class="section-title">Schedules</h2>
+    <div id="schedule-widget" class="sz-widget"></div>
+    <script type="text/javascript" src="//sportzing.com/web/dist/sz-0.1.9.min.js"></script><script type="text/javascript">
+      SZ.start({widget:'schedules', selector:'#schedule-widget', token: 'metro1'});
+    </script>
+</div>
 <!-- End Schedules -->
