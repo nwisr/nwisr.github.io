@@ -8,49 +8,7 @@ layout: default
         <a class="logo" href="{{ site.baaseurl }}">
           <img src="/img/logo.jpg" width="275" height="200" alt="Metro PDX Soccer">
         </a>
-<!--
-        <div class="container-fluid">
-            <div class="hero-content-inner">
-                <h1>{{ site.hero.hero_title }}</h1>
-                <p>{{ site.hero.hero_description }}</p>
-            </div>
-        </div>
- -->    </div>
-
-<!--     <div class="container-fluid form">
-        <div class="col-sm6 col-md4">
-            <img src="/img/logo.jpg"/>
-        </div>
     </div>
- -->
-
-
-<!--     <div class="container-fluid">
-
-        <div class="col-sm-6 col-md-4 form">
-            <img src="/img/logo.jpg"/>
- -->
- <!--             <h3><svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>Make an Appointment</h3>
-            <form action="https://getsimpleform.com/messages?form_api_token={{ site.api_token }}" method="post">
-                <div class="form-field">
-                    <input name="name" type="text" placeholder="Name" required>
-                </div>
-                <div class="form-field">
-                    <input name="phone" type="tel" placeholder="Phone" required>
-                </div>
-                <div class="form-field">
-                    <input name="email" type="email" placeholder="Email" required>
-                </div>
-                <div class="form-field">
-                    <textarea name="comments" placeholder="Message" required></textarea>
-                </div>
-                <input type="submit" class="btn btn-default" value="Send">
-            </form>
- -->
-<!--         </div>
-
-    </div>
- -->
 </div>
 <!-- End Hero -->
 
@@ -67,7 +25,7 @@ layout: default
     </div>
     <div class="col-sm-4">
         <a class="scroll" href="#schedules">
-            <svg class="icon icon-map-marker"><use xlink:href="#icon-map-marker"></use></svg>
+            <svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg>
             <h3>Schedules</h3>
             <ul>
                 <li>{{ site.data.season.info.start }} - {{ site.data.season.info.end }}</li>
@@ -123,11 +81,11 @@ layout: default
                 <div class="media">
                     <div class="media-left">
                         <div class="boxed-icon">
-                            <svg class="icon icon-medkit"><use xlink:href="#icon-medkit"></use></svg>
+                            <svg class="icon icon-leaf"><use xlink:href="#icon-leaf"></use></svg>
                         </div>
                     </div>
                     <div class="media-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam explicabo unde doloremque quo, fugit, nisi.</p>
+                        <p>For your convenience, all games will be played at consistent times each week at the same location</p>
                     </div>
                 </div>
             </div>
@@ -139,6 +97,32 @@ layout: default
 </div>
 <!-- End About -->
 
+<!-- Start Contact -->
+<div id="contact" class="contact">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-8">
+                <h3>Contact Us</h3>
+                <p>
+                    We are a nimble league interested in offering the best service to teams and players! We offer flexibility with each division self-governing within the framework of the overall league. If there are any desirable features, we have the ability to customize to your needs.
+                </p>
+            </div>
+            <div class="col-sm-4">
+                <h3><svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>Subsribe to Newsletter</h3>
+                <form action="https://getsimpleform.com/messages?form_api_token={{ site.api_token }}" method="post">
+                    <div class="form-field">
+                        <input name="name" type="text" placeholder="Name" required>
+                    </div>
+                    <div class="form-field">
+                        <input name="email" type="email" placeholder="Email" required>
+                    </div>
+                    <input type="submit" class="btn btn-default" value="Subsribe">
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Contact -->
 <!-- Start Treatments -->
 <div id="season" class="treatments">
     <div class="container-fluid">
@@ -208,7 +192,7 @@ layout: default
 <!-- End Treatments -->
 
 <!-- Start Our team -->
-<div id="team" class="team">
+<!-- <div id="team" class="team">
     <h2 class="section-title">Our Team</h2>
     <div id="team-carousel">
     {% for member in site.data.team %}
@@ -224,7 +208,7 @@ layout: default
         </div>
     {% endfor %}
     </div>
-</div>
+</div> -->
 <!-- End Our team -->
 
 <!-- Start Testimonials -->
@@ -252,7 +236,7 @@ layout: default
 <!-- End Testimonials -->
 
 <!-- Start Gallery -->
-<div id="gallery" class="gallery">
+<!-- <div id="gallery" class="gallery">
 
     <h2 class="section-title">Gallery</h2>
 
@@ -267,8 +251,9 @@ layout: default
         </a>
     {% endfor %}
 
-</div>
+</div> -->
 <!-- End Gallery -->
+
 
 <!-- Start Map -->
 <div id="location" class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.data.season.info.location.street }} {{ site.data.season.info.location.city }} {{ site.data.season.info.location.state }} {{ site.data.season.info.location.zip }}" data-address-details="{{ site.data.season.info.location.name }}"></div>
