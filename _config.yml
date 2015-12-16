@@ -63,6 +63,7 @@ prose:
         - _config.yml
         - /_layouts
         - /_includes
+        - /_scss
         - /css
         - /js
         - /svg
@@ -75,6 +76,10 @@ prose:
         - .gitignore
         - README.md
         - LICENSE.md
+        - CNAME
+        - favicon.png
+        - feed.xml
+        - index.html
 
 #   rooturl: '_posts'
 #   siteurl: 'http://prose.github.io/starter/'
