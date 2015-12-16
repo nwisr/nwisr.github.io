@@ -1,6 +1,6 @@
 # Site settings
 title: Metro PDX Soccer
-description: "A responsive Jekyll theme for dental clinics."
+description: "Portland 7v7 soccer league for men, women, and coed"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
 logo:
@@ -17,16 +17,6 @@ hero:
 # Contact form
 api_token: # Enter API token here
 
-# Contact info
-contact:
-    phone: 932 50 540
-    email: contact@yoursite.com
-
-# Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
-
 # Testimonials
 testimonials:
     testimonials_img: parallax.jpg
@@ -39,15 +29,15 @@ map:
 
 # Social settings
 social:
-    facebook: http://facebook.com
-    twitter: http://twitter.com
-    instagram: http://instagram.com
-    youtube: http://youtube.com
-    skype: skype:obaez_design?userinfo
-    feed: yes
+    # facebook: http://facebook.com
+    # twitter: http://twitter.com
+    # instagram: http://instagram.com
+    # youtube: http://youtube.com
+    # skype: skype:obaez_design?userinfo
+    # feed: yes
 
 # Footer
-copyright: © 2015 MetroPDXSoccer - All rights reserved
+copyright: © 2016 MetroPDXSoccer - All rights reserved
 
 # Build settings
 markdown: kramdown
