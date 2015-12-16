@@ -42,17 +42,16 @@ copyright: © 2016 MetroPDXSoccer - All rights reserved
 # Build settings
 markdown: kramdown
 
-exclude: [
-    package.json,
-    Gruntfile.js,
-    node_modules,
-    .sass-cache,
-    Gemfile,
-    Gemfile.lock,
-    .gitignore,
-    README.md,
-    LICENSE.md
-]
+exclude:
+    - package.json
+    - Gruntfile.js
+    - node_modules
+    - .sass-cache
+    - Gemfile
+    - Gemfile.lock
+    - .gitignore
+    - README.md
+    - LICENSE.md
 
 # Theme Settings
 analytics:
@@ -64,6 +63,18 @@ prose:
         - _config.yml
         - /_layouts
         - /_includes
+        - /css
+        - /js
+        - /svg
+        - package.json
+        - Gruntfile.js
+        - node_modules
+        - .sass-cache
+        - Gemfile
+        - Gemfile.lock
+        - .gitignore
+        - README.md
+        - LICENSE.md
 
 #   rooturl: '_posts'
 #   siteurl: 'http://prose.github.io/starter/'

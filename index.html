@@ -19,7 +19,7 @@ layout: default
             <svg class="icon icon-clock-o"><use xlink:href="#icon-clock-o"></use></svg>
             <h3>Registration</h3>
             <ul>
-                <li><strong>Deadline:</strong> {{ site.data.season.info.deadline }}</li>
+                <li><strong>Deadline:</strong> {{ site.data.season.deadline }}</li>
             </ul>
         </a>
     </div>
@@ -28,7 +28,7 @@ layout: default
             <svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg>
             <h3>Schedules</h3>
             <ul>
-                <li>{{ site.data.season.info.start }} - {{ site.data.season.info.end }}</li>
+                <li>{{ site.data.season.start }} - {{ site.data.season.end }}</li>
             </ul>
         </a>
     </div>
@@ -158,7 +158,7 @@ layout: default
 <!-- Start Treatments -->
 <div id="season" class="treatments">
     <div class="container-fluid">
-        <h2 class="section-title">{{ site.data.season.info.name }}</h2>
+        <h2 class="section-title">{{ site.data.season.name }}</h2>
 
         <div class="row">
             <div class="col-sm-6 col-md-4">
@@ -166,7 +166,7 @@ layout: default
                     <svg class="icon icon-clock-o"><use xlink:href="#icon-clock-o"></use></svg>
                     <h4>Registration Deadline</h4>
                     <p>
-                        {{ site.data.season.info.deadline }}<br/>
+                        {{ site.data.season.deadline }}<br/>
                         Early registration guarantees your spot!
                     </p>
                 </div>
@@ -176,8 +176,8 @@ layout: default
                     <svg class="icon icon-group"><use xlink:href="#icon-group"></use></svg>
                     <h4>Team Fee</h4>
                     <p>
-                        <strong>{{ site.data.season.info.fee }}</strong><br/>
-                        Each team of 7 players plays {{ site.data.season.info.numberGames }} games
+                        <strong>{{ site.data.season.fee }}</strong><br/>
+                        Each team of 7 players plays {{ site.data.season.numberGames }} games
                     </p>
                 </div>
             </div>
@@ -186,8 +186,8 @@ layout: default
                     <svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg>
                     <h4>Game Times</h4>
                     <p>
-                        {{ site.data.season.info.days }} {{ site.data.season.info.times }}<br/>
-                        {{ site.data.season.info.start }} - {{ site.data.season.info.end }}<br/>
+                        {{ site.data.season.days }} {{ site.data.season.times }}<br/>
+                        {{ site.data.season.start }} - {{ site.data.season.end }}<br/>
                     </p>
                 </div>
             </div>
@@ -196,8 +196,8 @@ layout: default
                     <svg class="icon icon-map-marker"><use xlink:href="#icon-map-marker"></use></svg>
                     <h4>Location</h4>
                     <p>
-                        {{ site.data.season.info.location.name }}<br/>
-                        {{ site.data.season.info.location.street }}, {{ site.data.season.info.location.city }} {{ site.data.season.info.location.state }} {{ site.data.season.info.location.zip }}<br/>
+                        {{ site.data.season.location.name }}<br/>
+                        {{ site.data.season.location.street }}, {{ site.data.season.location.city }} {{ site.data.season.location.state }} {{ site.data.season.location.zip }}<br/>
                     </p>
                 </div>
             </div>
@@ -277,5 +277,5 @@ layout: default
 <!-- End Schedules -->
 
 <!-- Start Map -->
-<div id="location" class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.data.season.info.location.street }} {{ site.data.season.info.location.city }} {{ site.data.season.info.location.state }} {{ site.data.season.info.location.zip }}" data-address-details="{{ site.data.season.info.location.name }}"></div>
+<div id="location" class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.data.season.location.street }} {{ site.data.season.location.city }} {{ site.data.season.location.state }} {{ site.data.season.location.zip }}" data-address-details="{{ site.data.season.location.name }}"></div>
 <!-- End Map -->
