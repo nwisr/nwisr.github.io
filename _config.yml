@@ -67,6 +67,8 @@ prose:
         - /css
         - /js
         - /svg
+        - /favicon
+        - favicon.ico
         - package.json
         - Gruntfile.js
         - node_modules
