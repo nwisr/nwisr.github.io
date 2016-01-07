@@ -1,0 +1,6 @@
+/* PAGE WRAPPER
+-------------------------------------------------*/
+.page {
+    @extend %clearfix;
+    margin-top: 85px;
+}

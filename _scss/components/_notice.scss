@@ -1,0 +1,13 @@
+/* HERO
+-------------------------------------------------*/
+.notice {
+    @extend %clearfix;
+    margin-top: 70px;
+    padding: 1rem;
+    background-color: #F84B13;
+    color: white;
+    text-align: center;
+    h3 {
+      color: white;
+    }
+}

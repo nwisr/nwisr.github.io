@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 ## Metro 7v7 Rules of Competition
 
 Each player MUST have a valid OASA player pass and present it to the referee prior to each game. No pass, no play.
@@ -35,8 +39,8 @@ Red Cards will result in a minimum of 1 game suspension. OASA rules will be impo
 Have fun, play fair.
 
 Judicial stuff: Our league is intended to be recreational in nature, but, well, stuff happens, here’s how we will handle it when it does.
- 
-## SECTION 1: PROTEST 
+
+## SECTION 1: PROTEST
 
 A protest is the formal filing of a complaint seeking redress such as protesting the outcome of a game for any reason.
 

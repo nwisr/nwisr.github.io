@@ -2,8 +2,21 @@
 layout: default
 ---
 
+<!-- Start Notice -->
+
+{% assign heroClass = 'hero' %}
+{% if site.data.notice.active %}
+    {% assign heroClass = 'hero hero-with-notice' %}
+    <div class="notice">
+        <h3>{{ site.data.notice.title}}</h3>
+        <p>{{ site.data.notice.body }}</p>
+    </div>
+{% endif %}
+
+<!-- End Notice -->
+
 <!-- Start Hero -->
-<div class="hero" style="background: url('{{ site.baseurl }}/img/{{ site.hero.hero_bg }}') repeat-x;">
+<div class="{{heroClass}}" style="background: url('{{ site.baseurl }}/img/{{ site.hero.hero_bg }}') repeat-x;">
     <div class="hero-content" style="background: url('{{ site.baseurl }}/img/{{ site.hero.hero_img }}') no-repeat top right;">
         <a class="logo" href="{{ site.baaseurl }}">
           <img src="/img/logo.jpg" width="275" height="200" alt="Metro PDX Soccer">
@@ -207,7 +220,8 @@ layout: default
                     <h4>Requirements</h4>
                     <p>
                     Valid <a href="http://oregonadultsoccer.com/player_registration.htm">OASA player cards</a> required<br/>
-                    Bring <a href="http://oregonadultsoccer.com/PDF%20others/Forms/Match%20Roster%20Form.pdf">Team Roster</a> to each game</p>
+                    Bring <a href="http://oregonadultsoccer.com/PDF%20others/Forms/Match%20Roster%20Form.pdf">Team Roster</a> to each game<br/>
+                    Read the <a href="/rules">Rules of Competition</a></p>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
