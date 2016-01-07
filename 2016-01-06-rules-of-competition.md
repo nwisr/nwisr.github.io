@@ -84,4 +84,4 @@ If a player plays or attempts to play using a player card altered in any way, or
 
 Any misconduct by a team may result in penalties such as fines, forfeiture and/or exclusion from the league. Any action taken by the league will be in writing from the Judicial Commissioner and the team may protest and request a hearing by following Rule 16 Section 1.
 
-All penalties are subject to additional action by either the league or OASA
+### All penalties are subject to additional action by either the league or OASA
