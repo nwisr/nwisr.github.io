@@ -1,6 +1,6 @@
 # Site settings
-title: Metro PDX Soccer
-description: "Portland 7v7 soccer league for men, women, and coed"
+title: Northwest Indoor Soccer Referees
+description: "Northwest Indoor Soccer Referees"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
 logo:
@@ -11,7 +11,7 @@ hero:
     hero_bg: bannerbg.jpg
     hero_img: banner.jpg
     hero_logo: logo.jpg
-    hero_title: Metro PDX Soccer
+    hero_title: NWISR
     hero_description: A responsive Jekyll theme for dental clinics.
 
 # Contact form
@@ -37,7 +37,7 @@ social:
     # feed: yes
 
 # Footer
-copyright: © 2016 MetroPDXSoccer - All rights reserved
+copyright: © 2016 NWISR - All rights reserved
 
 # Build settings
 markdown: kramdown

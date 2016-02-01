@@ -19,7 +19,7 @@ layout: default
 <div class="{{heroClass}}" style="background: url('{{ site.baseurl }}/img/{{ site.hero.hero_bg }}') repeat-x;">
     <div class="hero-content" style="background: url('{{ site.baseurl }}/img/{{ site.hero.hero_img }}') no-repeat top right;">
         <a class="logo" href="{{ site.baaseurl }}">
-          <img src="/img/logo.jpg" width="275" height="200" alt="Metro PDX Soccer">
+          <img src="/img/logo.jpg" width="275" height="200" alt="NWISR">
         </a>
     </div>
 </div>
@@ -30,7 +30,7 @@ layout: default
     <div class="col-sm-4">
         <a class="scroll" href="#season">
             <svg class="icon icon-clock-o"><use xlink:href="#icon-clock-o"></use></svg>
-            <h3>Registration</h3>
+            <h3>ONE</h3>
             <ul>
                 <li><strong>Deadline:</strong> {{ site.data.season.deadline }}</li>
             </ul>
@@ -39,7 +39,7 @@ layout: default
     <div class="col-sm-4">
         <a class="scroll" href="#schedules">
             <svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg>
-            <h3>Schedules</h3>
+            <h3>TWO</h3>
             <ul>
                 <li>{{ site.data.season.start }} - {{ site.data.season.end }}</li>
             </ul>
@@ -60,11 +60,11 @@ layout: default
 <!-- Start About -->
 <div id="about" class="about">
     <div class="container-fluid">
-        <h2 class="section-title">About the 7v7 League</h2>
+        <h2 class="section-title">About Northwest Indoor Soccer Referees</h2>
 
         <div class="row">
             <div class="col-sm-6">
-                <h3>Welcome to Metro PDX Soccer</h3>
+                <h3>Welcome to NWISR</h3>
                 <p>
                     We are a nimble league offering the best service to teams and players! We offer flexibility with each division self-governing within the framework of the overall league. If there are any desirable features, we have the ability to customize to your needs.
                 </p>
@@ -119,11 +119,11 @@ layout: default
             </div>
             <div class="col-sm-6">
                 <h3><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg>Contact Eric</h3>
-                <p>Please contact Eric Beck, the leauge administrator, with any questions. He is available by phone between the hours of 8AM and 4PM at 503-662-8182. Payments may be mailed to 2169 SE Scott Avenue, Gresham OR 97080</p>
+                <p>Please contact Eric Beck, the assignor, with any questions. He is available by phone between the hours of 8AM and 4PM at 503-662-8182. Correspondence may be mailed to 2169 SE Scott Avenue, Gresham OR 97080</p>
             </div>
             <div class="col-sm-4">
-                <h3><svg class="icon icon-envelope"><use xlink:href="#icon-envelope"></use></svg>Subsribe to Newsletter</h3>
-                <p>Join our mailing list to stay informed of schedule changes, game cancelations, and other important league information.</p>
+                <h3><svg class="icon icon-envelope"><use xlink:href="#icon-envelope"></use></svg>Subsribe to Mailing List</h3>
+                <p>Join our mailing list to stay informed of changing rules, requirements, and other important information.</p>
                 <!-- Begin MailChimp Signup Form -->
                 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
                 <div id="mc_embed_signup">
@@ -291,5 +291,8 @@ layout: default
 <!-- End Schedules -->
 
 <!-- Start Map -->
-<div id="location" class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.data.season.location.street }} {{ site.data.season.location.city }} {{ site.data.season.location.state }} {{ site.data.season.location.zip }}" data-address-details="{{ site.data.season.location.name }}"></div>
+<div id="location"></div>
+    <h2 class="section-title">Location</h2>
+    <div class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.data.season.location.street }} {{ site.data.season.location.city }} {{ site.data.season.location.state }} {{ site.data.season.location.zip }}" data-address-details="{{ site.data.season.location.name }}"></div>
+</div>
 <!-- End Map -->
