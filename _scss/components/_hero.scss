@@ -2,7 +2,7 @@
 -------------------------------------------------*/
 .hero {
     @extend %clearfix;
-    margin-top: 70px;
+    margin-top: 49px;
 }
 
 .hero-with-notice {
@@ -14,6 +14,6 @@
     .logo {
         float: left;
         margin: 0;
-        padding: 0
+        padding: 10px;
     }
 }

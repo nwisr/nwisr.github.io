@@ -1,6 +1,7 @@
 /* TESTIMONIALS
 -------------------------------------------------*/
 .testimonials {
+    margin-top: 48px;
     color: $white;
     text-align: center;
     background-repeat: no-repeat;
@@ -20,7 +21,7 @@
             right: 0;
             bottom: 0;
             z-index: 1;
-            background: rgba($colorPrimary, 0.5);
+            background: rgba($colorPrimaryDarker, 0.5);
         }
     }
     .container-fluid {

@@ -85,7 +85,23 @@ module.exports = function (grunt) {
                 tasks: ['concat', 'uglify', 'shell:jekyllBuild']
             },
             site: {
-                files: ['**/*.html', '_layouts/*.html', '_posts/*.markdown', '_posts/*.md', '_includes/*.html', '_includes/*.md', '_config.yml', 'js/**/*.js', '_data/*.yml'],
+                files: [
+                    '**/*.html',
+                    '_layouts/*.html',
+                    '_posts/*.markdown',
+                    '_posts/*.md',
+                    '_includes/*.html',
+                    '_includes/*.md',
+                    '_config.yml',
+                    'js/**/*.js',
+                    '_data/*.yml',
+                    '_clients/*',
+                    '_rules/*',
+                    'about/*',
+                    'forms/*',
+                    'arenas.html',
+                    'rules.md'
+                ],
                 tasks: ['shell:jekyllBuild']
             },
             svgIcons: {

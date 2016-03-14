@@ -29,9 +29,12 @@ $alabaster: #f7f7f7;
 $pelorous: #3dadb2;
 $deepOrange: #f1490a;
 $orange: #f7ad1a;
+$mint: #A4D6BC;
 
 /* Color usage */
-$colorPrimary: $orange;
+$colorPrimary: $mint;
+$colorPrimaryDark: darken($colorPrimary, 20%);
+$colorPrimaryDarker: darken($colorPrimary, 50%);
 $colorHeading: $grey;
 $colorBase: $greyLight;
 $colorBg: $alabaster;

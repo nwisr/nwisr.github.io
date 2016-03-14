@@ -21,8 +21,10 @@ Website content for nwisr.com
 
 ### Home Page
 
-* Hero banner
-  * NWISR logo
+* Testimonials
+  * From facilities
+  * From referees
+  * Need background image
 * Quick links
   * Registration/Login
   * Forms
@@ -32,18 +34,14 @@ Website content for nwisr.com
   * Hightlights
     * Referee management and assigning services
     * Why Outdoor Referees Choose Metro 7v7?
-  * Photo
+  * NWISR logo
   * Contact Eric
     * Photo of Eric
     * About Eric
   * Subscribe to Mailing List
-* Testimonials
-  * From facilities
-  * From referees
-  * Need background image
 * Registration/Login (mini-cards)
   * Overview of how to become a referee
-  * Obtain USSF certification
+  * Obtain USSF certification - NOT FOR INDOOR
   * Submit W9 form
   * Submit Contract
   * Join SportZing
@@ -56,17 +54,17 @@ Website content for nwisr.com
     * Rose City Futsal
     * Salmon Creek Indoor
     * Soccerplex
+    * Troutdale
     * Tualatin Indoor Arena
     * LaSalle Catholic College Prep
-    * ESUFC fields ???
   * navigate to location page?
 * Policies
   * minicards for each policy
     * NWISR Policies
     * Discipline & Appeals Policy
     * NWISR Code Of Conduct
-    * Assessments
-    * Indoor Referee Continuing Education Program
+    * Assessments - MAY NOT NEED
+    * Indoor Referee Continuing Education Program - NOT NEEDED
   * navigate to policy pages?
 * Forms
   * minicards for each form

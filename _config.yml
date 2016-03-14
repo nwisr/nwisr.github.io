@@ -1,8 +1,8 @@
 # Site settings
-title: Northwest Indoor Soccer Referees
+title: NWISR
 description: "Northwest Indoor Soccer Referees"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the name of your domain
+url: "http://nwisr.com" # the name of your domain
 logo:
     url: svg/min/logo.svg
 
@@ -41,6 +41,32 @@ copyright: © 2016 NWISR - All rights reserved
 
 # Build settings
 markdown: kramdown
+relative_permalinks: false
+
+collections:
+  clients:
+    output: true
+    permalink: /schedules/:path/
+  rules:
+    output: true
+    permalink: /rules/:path/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "clients"
+    values:
+      layout: schedule
+      featured: false
+      hidden: true
+      variant: false
+  -
+    scope:
+      path: ""
+      type: "rules"
+    values:
+      layout: page
 
 exclude:
     - package.json

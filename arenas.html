@@ -1,0 +1,40 @@
+---
+layout: page
+permalink: arenas/
+---
+
+<h1>Soccer and Futsal Arenas</h1>
+<p>NWISR referees have the opportunity to work at the following arenas. Please review the information about each facility that, as each may have different rules and game fees.</p>
+
+{% assign clients = site.clients | where: "facility", true %}
+
+<ul>
+  {% for client in clients %}
+  <li><a href="#{{ client.code }}">{{ client.name }}</a></li>
+  {% endfor %}
+</ul>
+
+{% for client in clients %}
+
+<a name="{{ client.code }}"></a>
+<h3>
+{{ client.name }}
+{% if client.code %}
+  ({{ client.code | upcase }})
+{% endif %}
+</h3>
+
+{% assign rule = site.rules | where: "name", client.rules | first %}
+{% assign rulemod = site.rules | where: "name", client.code | first %}
+
+<div>Phone: {{ client.phone }}</div>
+<div>Address: {{ client.address }}</div>
+<div>Game Fee: {{ client.fee }}</div>
+<div>Rules: <a href="{{ rule.url }}">{{ rule.title }}</a></div>
+{% if rulemod %}
+<div>Rule Modifications: <a href="{{ rulemod.url }}">{{ rulemod.title }}</a></div>
+{% endif %}
+
+<iframe width="400" height="300" frameborder="0" src="{{ client.map }}" kwframeid="2"></iframe>
+
+{% endfor %}

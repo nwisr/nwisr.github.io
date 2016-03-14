@@ -10,10 +10,10 @@
     a {
         color: $white;
         display: block;
-        padding: $space*3 $space;
+        padding: $space*2 $space;
         @include breakpoint(medium) {
-           padding-left: $space*3;
-           padding-right: $space*3;
+           padding-left: $space*2;
+           padding-right: $space*2;
         }
         &:hover {
             text-decoration: none;
@@ -21,13 +21,13 @@
     }
     [class^="col-"] {
         &:nth-child(1) {
-            background: lighten($colorPrimary, 10%);
+            background: lighten($colorPrimaryDark, 10%);
         }
         &:nth-child(2) {
-            background: lighten($colorPrimary, 5%);
+            background: lighten($colorPrimaryDark, 5%);
         }
         &:nth-child(3) {
-            background: lighten($colorPrimary, 10%);
+            background: lighten($colorPrimaryDark, 10%);
         }
     }
     .icon {

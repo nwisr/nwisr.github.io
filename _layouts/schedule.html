@@ -1,0 +1,20 @@
+---
+layout: page
+---
+
+<h1>{{ page.code | upcase }} Referee Schedules</h1>
+
+{% if page.sheetid %}
+
+<p><a href= "https://docs.google.com/spreadsheets/d/{{ page.sheetid }}/pubhtml?gid=0&single=true">View external {{ page.facility }} referee schedules</a></p>
+<iframe src="https://docs.google.com/spreadsheets/d/{{ page.sheetid }}/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="600" height="1000"></iframe>
+
+{% else %}
+
+<p>No schedules available for {{ page.name }}</p>
+
+{% endif %}
+
+{{ content }}
+
+
