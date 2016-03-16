@@ -1,7 +1,7 @@
 ---
 name: Troutdale Indoor Soccer
 code: tdis
-facility: false
+facility: true
 fee: $10 per team per game
 web: www.troutdalesoccer.com
 phone: 503-661-3455
