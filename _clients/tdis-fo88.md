@@ -1,9 +1,9 @@
 ---
-name: Back to Back Indoor Sports
+name: Troutdale Indoor Soccer
 code: tdis
 facility: false
 fee: $10 per team per game
-web: www.back-to-backindoorsports.com
+web: www.troutdalesoccer.com
 phone: 503-661-3455
 address: 819 NW Corporate Drive, Troutdale, 97060
 rules: indoor
