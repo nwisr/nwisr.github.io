@@ -2,9 +2,15 @@
 layout: page
 ---
 
-<h1>{{ page.code | upcase }} Referee Schedules</h1>
+<h1>{{ page.code | upcase }} Referee Schedule</h1>
 
 {% if page.sheetid %}
+
+<p>I have assigned referees to games at your facility based on the information received from you web site on the date indicated at the top of the schedule.</p>
+
+<p>If there are any discrepancies or changes that need to be made to this schedule please let me know, otherwise I will assume that it is correct.</p>
+
+<p>Thanks, Eric</p>
 
 <p><a href= "https://docs.google.com/spreadsheets/d/{{ page.sheetid }}/pubhtml?gid=0&single=true">View external {{ page.facility }} referee schedules</a></p>
 <iframe src="https://docs.google.com/spreadsheets/d/{{ page.sheetid }}/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="600" height="1000"></iframe>

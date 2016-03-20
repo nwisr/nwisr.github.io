@@ -85,52 +85,25 @@ layout: default
 <!-- Start About -->
 <div id="about" class="about">
     <div class="container-fluid">
-        <h2 class="section-title">About Northwest Indoor Soccer Referees</h2>
+        <h2 class="section-title">{{ site.data.about.section }}</h2>
 
         <div class="row">
             <div class="col-sm-8">
-                <h3>Welcome to NWISR</h3>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                </p>
+                <h3>{{ site.data.about.title }}</h3>
+                <p>{{ site.data.about.content }}</p>
 
+                {% for bullet in site.data.about.bullets %}
                 <div class="media">
                     <div class="media-left">
                         <div class="boxed-icon">
-                            <svg class="icon icon-heart"><use xlink:href="#icon-heart"></use></svg>
+                            <svg class="icon {{bullet.icon}}"><use xlink:href="#{{bullet.icon}}"></use></svg>
                         </div>
                     </div>
                     <div class="media-body">
-                        <p>We provide our leagues, tournaments, and facilties with outstanding service while saving them time, money and headaches.</p>
+                        <p>{{ bullet.content }}</p>
                     </div>
                 </div>
-
-                <div class="media">
-                    <div class="media-left">
-                        <div class="boxed-icon">
-                            <svg class="icon icon-star"><use xlink:href="#icon-star"></use></svg>
-                        </div>
-                    </div>
-                    <div class="media-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
-                    </div>
-                </div>
-
-                <div class="media">
-                    <div class="media-left">
-                        <div class="boxed-icon">
-                            <svg class="icon icon-diamond"><use xlink:href="#icon-diamond"></use></svg>
-                        </div>
-                    </div>
-                    <div class="media-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
-                    </div>
-                </div>
+                {% endfor %}
             </div>
             <div class="col-sm-4">
                 <img src="/img/logo1.png" width="194" height="194" alt="NWISR">
@@ -154,20 +127,27 @@ layout: default
             </div>
             <div class="col-sm-4">
                 <h3><svg class="icon icon-envelope"><use xlink:href="#icon-envelope"></use></svg>Subsribe to Mailing List</h3>
+                <p>Coming soon...</p>
+<!--
                 <p>Join our mailing list to stay informed of changing rules, requirements, and other important information.</p>
+-->
                 <!-- Begin MailChimp Signup Form -->
+<!--
                 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
                 <div id="mc_embed_signup">
                 <form action="//metro7v7.us4.list-manage.com/subscribe/post?u=3d979ef95cc2df03167ef5454&amp;id=16cacff209" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                     <div id="mc_embed_signup_scroll">
 
                     <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+-->
                     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+<!--
                     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_3d979ef95cc2df03167ef5454_16cacff209" tabindex="-1" value=""></div>
                     <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
                     </div>
                 </form>
                 </div>
+-->
                 <!--End mc_embed_signup-->
             </div>
         </div>
@@ -179,7 +159,16 @@ layout: default
 <div id="referees" class="treatments">
     <div class="container-fluid">
         <h2 class="section-title">For Referees</h2>
+
         <div class="row">
+            <div class="col-sm-6 col-md-4">
+                <a href="https://docs.google.com/forms/d/1R2IDw_liLbxyYZCI2BIllgXiTbUlfy-W5GLJMx1ROH8/viewform" class="icon-box">
+                    <svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg>
+                    <h4>Register for Referee Classes</h4>
+                </a>
+            </div>
+
+<!--
             <div class="col-sm-6 col-md-4">
                 <a href="/referees" class="icon-box">
                     <svg class="icon icon-clock-o"><use xlink:href="#icon-clock-o"></use></svg>
@@ -220,7 +209,11 @@ layout: default
                     <h4>Something</h4>
                 </div>
             </div>
+-->
         </div>
+
+        <p>Additional resources for referees is currently under development and will be added soon. This will include detailed instructions on how to join NWISR as a referee as well as information for existing referees.</p>
+
     </div>
 </div>
 <!-- End Treatments -->
@@ -230,6 +223,20 @@ layout: default
     <div class="container-fluid">
         <h2 class="section-title">For Leagues, Tournaments, and Arenas</h2>
         <div class="row">
+            <div class="col-sm-6 col-md-4">
+                <a href="https://docs.google.com/forms/d/1YSSNS8awUTy2XbFNHObExwOWqkBEVxjl2F_DhGdBhew/viewform" class="icon-box">
+                    <svg class="icon icon-commenting"><use xlink:href="#icon-commenting"></use></svg>
+                    <h4>Referee Evaluation Report</h4>
+                </a>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <a href="https://docs.google.com/forms/d/1hgD3K3GQQLinAf_gfztwYDTIktSxjVWHe78p-8ZlCj0/viewform" class="icon-box">
+                    <svg class="icon icon-commenting"><use xlink:href="#icon-commenting"></use></svg>
+                    <h4>Rant or Rave about a Referee</h4>
+                </a>
+            </div>
+<!--
+
             <div class="col-sm-6 col-md-4">
                 <div class="icon-box">
                     <svg class="icon icon-bolt"><use xlink:href="#icon-bolt"></use></svg>
@@ -273,7 +280,11 @@ layout: default
                     <h4>On-site Services</h4>
                 </div>
             </div>
+-->
         </div>
+
+        <p>Additional resources for organizations is currently under development and will be added soon. This will include detailed information about NWISR services as well as information for existing customers.</p>
+
     </div>
 </div>
 <!-- End Treatments -->

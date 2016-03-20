@@ -2,7 +2,7 @@
 name: Tualatin Indoor Soccer
 code: tis
 facility: true
-fee: $10 per team per game
+fee: $9 per team per game
 web: www.tualatinindoor.com
 phone: (503) 885-9300
 address: 11883 SW Itel Street, Tualatin, OR 97062
