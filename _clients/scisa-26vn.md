@@ -2,7 +2,7 @@
 name: Salmon Creek Indoor Soccer
 code: scisa
 facility: true
-fee: $8 per team per game
+fee: $9 per team per game
 web: www.scsoccerarena.com
 phone: (360) 571-7628
 address: 110 NW 139th Street, Vancouver, WA 98685

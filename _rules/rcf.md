@@ -1,6 +1,6 @@
 ---
 name: rcf
-title: Rule Modifications for Back to Back Sports
+title: Rule Modifications for Rose City Futsal
 modification: true
 ---
 
