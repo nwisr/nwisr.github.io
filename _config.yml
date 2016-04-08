@@ -90,7 +90,9 @@ prose:
         - /_layouts
         - /_includes
         - /_scss
+        - /assets
         - /css
+        - /img
         - /js
         - /svg
         - /favicon
@@ -108,6 +110,9 @@ prose:
         - favicon.png
         - feed.xml
         - index.html
+        - arenas.html
+        - old-site-content.md
+        - rules.md
 
 #   rooturl: '_posts'
 #   siteurl: 'http://prose.github.io/starter/'
