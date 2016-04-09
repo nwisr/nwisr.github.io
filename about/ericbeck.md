@@ -1,6 +1,8 @@
 ---
 layout: page
+published: true
 ---
+
 
 # About Eric Beck
 
@@ -58,4 +60,4 @@ Eric started his soccer career at the age of 4 years old but was forced to quit 
 * Region IV Select Teams Finals:  2001-2002
 * USASA Region IV Referee Coordinator:  2003-present
 * Coordinating and overseeing all referee participation in regional events:  National Cups, State Selects, Veteran’s Cup, National Coed Championship
-
+MLS Portland Timbers, Portland Thorns, Timbers 2.2011-present
