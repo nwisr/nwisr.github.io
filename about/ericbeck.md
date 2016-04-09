@@ -4,6 +4,7 @@ published: true
 ---
 
 
+
 # About Eric Beck
 
 Eric Beck has been involved in the soccer arena for over 50 years. In 2010 he was inducted into the USASA National Soccer Hall-of-Fame and was previously honored as a member of the USASA Region IV (West) Hall-of-Fame.
@@ -60,4 +61,4 @@ Eric started his soccer career at the age of 4 years old but was forced to quit 
 * Region IV Select Teams Finals:  2001-2002
 * USASA Region IV Referee Coordinator:  2003-present
 * Coordinating and overseeing all referee participation in regional events:  National Cups, State Selects, Veteran’s Cup, National Coed Championship
-MLS Portland Timbers, Portland Thorns, Timbers 2.2011-present
+* MLS Portland Timbers, Portland Thorns, Timbers 2.2011-present
