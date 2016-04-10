@@ -96,6 +96,7 @@ prose:
         - /js
         - /svg
         - /favicon
+        - /forms
         - favicon.ico
         - package.json
         - Gruntfile.js
