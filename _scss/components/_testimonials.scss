@@ -9,6 +9,11 @@
     @include breakpoint(large) {
         background-attachment: fixed;
     }
+
+    &.notice-active {
+      margin-top: 0;
+    }
+
     .overlay-container {
         @extend %space;
         position: relative;

@@ -6,7 +6,7 @@ layout: default
 
 {% assign heroClass = 'hero' %}
 {% if site.data.notice.active %}
-    {% assign heroClass = 'hero hero-with-notice' %}
+    {% assign noticeActive = 'notice-active' %}
     <div class="notice">
         <h3>{{ site.data.notice.title}}</h3>
         <p>{{ site.data.notice.body }}</p>
@@ -27,7 +27,7 @@ layout: default
 
 
 <!-- Start Testimonials -->
-<div id="testimonials" class="testimonials parallax" style="background-image: url('{{ site.baseurl }}/img/{{ site.testimonials.testimonials_img }}');">
+<div id="testimonials" class="{{noticeActive}} testimonials parallax" style="background-image: url('{{ site.baseurl }}/img/{{ site.testimonials.testimonials_img }}');">
     <div class="overlay-container">
         <div class="overlay"></div>
         <div class="container-fluid">
