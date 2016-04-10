@@ -2,7 +2,9 @@
 name: indoor
 title: Northwest Indoor Soccer Rules
 modification: false
+published: true
 ---
+
 
 # NORTHWEST INDOOR REFEREES ASSOCIATION
 
@@ -43,7 +45,7 @@ Players may not step off the field of play through the opposing team’s bench, 
 
 If both players are on the field, and the ball comes to them, neither player may play the ball if the other player is on the field (player subbing out can’t kick the ball if the sub has stepped on the field; player subbing in can’t kick the ball if the replaced player hasn’t left the field). A violation of this rule results in a free kick to the opposing team.
 
-Players may not jump or vault over the boards as a part of the substitution process. A player who jumps over the boards shall receive a red card.
+Players may not jump or vault over the boards as a part of the substitution process. A player who jumps over the boards shall receive a blue card.
 
 **2.6** A team with too many players on the field is penalized, with a free kick awarded to the opposing team.
 
