@@ -1,9 +1,10 @@
 ---
 name: socp
-title: Rule Modifications for Soccerplex
+title: "Rule Modifications for PDX Sports "
 modification: true
 published: true
 ---
+
 
 
 ## Rule 9 - {{ page.title }}
