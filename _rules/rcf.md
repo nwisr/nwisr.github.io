@@ -6,5 +6,4 @@ modification: true
 
 ## {{ page.title }}
 
-Download the [Rose City Futsal House Rules](/assets/RCF-House-Rules-5v5.pdf)
-
+Download the [Rose City Futsal Laws of the Game](/assets/RCF-Laws-of-the-Game.pdf)
