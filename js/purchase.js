@@ -149,7 +149,8 @@
 
   function sendPaymentForm (data, onDone, onFail) {
     $.ajax({
-      url: 'https://tl4hta2txd.execute-api.us-west-2.amazonaws.com/dev/checkout',
+      url: window.CONFIG.checkoutUrl,
+      // url: 'https://tl4hta2txd.execute-api.us-west-2.amazonaws.com/dev/checkout',
       type: 'POST',
       contentType: 'application/json; charset=UTF-8',
       data: {
@@ -171,7 +172,8 @@
 
   function loadClientToken (onDone, onFail) {
     $.ajax({
-      url: 'https://tl4hta2txd.execute-api.us-west-2.amazonaws.com/dev/token',
+      url: window.CONFIG.tokenUrl,
+      // url: 'https://tl4hta2txd.execute-api.us-west-2.amazonaws.com/dev/token',
       type: 'GET',
       crossDomain: true
     })
