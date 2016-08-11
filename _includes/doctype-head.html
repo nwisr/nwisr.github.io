@@ -47,4 +47,16 @@
     <!-- iOS Safari -->
     <meta name="apple-mobile-web-app-status-bar-style" content="#f1490a">
 
+    <script>
+      // window.ENVIRONMENT = "dev";
+      window.CONFIG = window.CONFIG || {};
+      {% if jekyll.environment == "production" %}
+      window.CONFIG.tokenUrl = "https://tl4hta2txd.execute-api.us-west-2.amazonaws.com/prod/token";
+      window.CONFIG.checkoutUrl = "https://tl4hta2txd.execute-api.us-west-2.amazonaws.com/prod/checkout";
+      {% else %}
+      window.CONFIG.tokenUrl = "https://tl4hta2txd.execute-api.us-west-2.amazonaws.com/dev/token";
+      window.CONFIG.checkoutUrl = "https://tl4hta2txd.execute-api.us-west-2.amazonaws.com/dev/checkout";
+      {% endif %}
+      console.log('GITHUB', {{ site.GITHUB }} );
+    </script>
 </head>
