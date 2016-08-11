@@ -256,6 +256,7 @@
 
           hostedFieldsInstance.tokenize(function (err, obj) {
             if (err) {
+              $(event.target).prop('disabled', false)
               return handleError(err)
             }
 
