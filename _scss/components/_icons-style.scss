@@ -6,6 +6,20 @@
     margin-bottom: $space;
     background: $white;
     text-align: center;
+    &.icon-box-featured {
+      background-color: lighten($colorPrimary, 15%);
+      padding: 0;
+      a {
+        display: inline-block;
+        padding: $space;
+        color: #333333;
+        text-decoration: none;
+        width: 100%;
+      }
+      &:hover {
+        background-color: $colorPrimary;
+      }
+    }
 }
 
 .boxed-icon {

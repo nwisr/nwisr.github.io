@@ -161,11 +161,24 @@ layout: default
         <h2 class="section-title">Information for Referees</h2>
 
         <div class="row">
-            <div class="col-sm-6 col-md-4">
-                <a href="https://docs.google.com/forms/d/1R2IDw_liLbxyYZCI2BIllgXiTbUlfy-W5GLJMx1ROH8/viewform" class="icon-box">
-                    <svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg>
-                    <h4>Register for Referee Classes</h4>
+
+            <div class="col-sm-12 col-md-6">
+              <div class="icon-box icon-box-featured">
+                <a class="popup-with-iframe" href="https://docs.google.com/forms/d/1R2IDw_liLbxyYZCI2BIllgXiTbUlfy-W5GLJMx1ROH8/viewform?embedded=true">
+                  <h3><svg class="icon icon-dark icon-calendar"><use xlink:href="#icon-calendar"></use></svg> Register for Referee Classes</h3>
+                  <p>Available {{ site.data.classes.year }} dates:
+                    {% for date in site.data.classes.dates %}<span>{% if forloop.first == false %}, {% endif %}{{ date }}</span>{% endfor %}
+                  </p>
                 </a>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-6">
+              <div class="icon-box icon-box-featured">
+                <a href="/payment">
+                  <h3><svg class="icon icon-dark icon-credit-card"><use xlink:href="#icon-credit-card"></use></svg> Make Payment</h3>
+                  <p>Pay for registration and recertification</p>
+                </a>
+              </div>
             </div>
 
 <!--
@@ -349,4 +362,3 @@ layout: default
 
 </div> -->
 <!-- End Gallery -->
-

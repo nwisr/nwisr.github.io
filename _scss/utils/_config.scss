@@ -29,7 +29,8 @@ $alabaster: #f7f7f7;
 $pelorous: #3dadb2;
 $deepOrange: #f1490a;
 $orange: #f7ad1a;
-$mint: #A4D6BC;
+// $mint: #A4D6BC; // Eric said this was hard to read button text
+$mint: #20D3A5;
 
 /* Color usage */
 $colorPrimary: $mint;
@@ -100,4 +101,3 @@ $btn-border-radius-small: 0;
 $tooltip-max-width: 260px;
 $tooltip-color: #fff;
 $tooltip-bg: darken($colorPrimary, 2%);
-
