@@ -124,4 +124,13 @@ module.exports = function (grunt) {
   // Define the tasks
   grunt.registerTask('serve', ['shell:jekyllServe'])
   grunt.registerTask('default', ['watch'])
+  grunt.registerTask('build', [
+    'sass',
+    'autoprefixer',
+    'concat',
+    'uglify',
+    'svgmin',
+    'svgstore',
+    'shell:jekyllBuild'
+  ])
 }
