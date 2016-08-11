@@ -227,7 +227,7 @@
           })
           break
         case 'btnRecert':
-          updateReason('recert', amount)
+          updateReason('recertification', amount)
           displayFields({
             show: '',
             required: ''
