@@ -42,7 +42,7 @@
           'color': 'black'
         },
         '.valid': {
-          'color': '#8bdda8'
+          'color': 'limegreen'
         },
         '.invalid': {
           'color': 'tomato'
