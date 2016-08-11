@@ -1,0 +1,27 @@
+{% include doctype-head.html %}
+<body data-spy="scroll" data-offset="80" data-target=".scrollspy" id="top">
+    {% include svg-defs.svg %}
+    <!--[if lt IE 10]>
+        <p class="oldie">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> to better experience this site.</p>
+    <![endif]-->
+
+    {% include header.html %}
+        <div class="container-fluid page">
+            {{ content }}
+        </div>
+
+    {% include footer.html %}
+
+    {% if site.analytics %}
+        {% include analytics.html %}
+    {% endif %}
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://js.braintreegateway.com/web/3.0.0-beta.12/js/client.min.js"></script>
+    <script src="https://js.braintreegateway.com/web/3.0.0-beta.12/js/hosted-fields.min.js"></script>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/formatter.js/0.1.5/formatter.min.js"></script> -->
+    <script src="{{ site.baseurl }}/js/formatter.min.js"></script>
+    <script src="{{ site.baseurl }}/js/all.min.js"></script>
+    <script src="{{ site.baseurl }}/js/purchase.min.js"></script>
+</body>
+</html>

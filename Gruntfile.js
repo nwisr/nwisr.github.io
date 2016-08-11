@@ -17,6 +17,11 @@ module.exports = function (grunt) {
         files: {
           'js/all.min.js': ['js/all.js']
         }
+      },
+      purchase: {
+        files: {
+          'js/purchase.min.js': ['js/purchase.js']
+        }
       }
     },
 

@@ -1,0 +1,176 @@
+---
+layout: payment
+---
+
+<!-- Start payment form -->
+<form id="payment-form" autocomplete="on">
+
+  <div class="panel panel-default bootstrap-basic" id="panel0">
+    <div class="panel-heading">
+      <h3 class="panel-title">Preparing Payment Form</h3>
+    </div>
+    <div class="loader" id="loading">Loading...</div>
+  </div>
+
+  <div class="panel panel-default bootstrap-basic hidden" id="panel1">
+    <div class="panel-heading">
+      <h3 class="panel-title">Reason for Payment</h3>
+    </div>
+
+    <div class="form-inputs">
+      <label>What would you like to pay for?</label>
+
+      <button id="btnBoth" class="btn btn-default" type="button" data-panel="#panel2" data-amount="{{ site.data.fees.both }}">Registration with Indoor and Futsal training: ${{ site.data.fees.both }}</button>
+      <button id="btnIndoor" class="btn btn-default" type="button" data-panel="#panel2" data-amount="{{ site.data.fees.indoor }}">Registration with Indoor training only: <strong>${{ site.data.fees.indoor }}</strong></button>
+      <button id="btnFutsal" class="btn btn-default" type="button" data-panel="#panel2" data-amount="{{ site.data.fees.futsal }}">Registration with Futsal training only: ${{ site.data.fees.futsal }}</button>
+      <button id="btnRecert" class="btn btn-default" type="button" data-panel="#panel2" data-amount="{{ site.data.fees.recert }}">Annual Recertification: ${{ site.data.fees.recert }}</button>
+      <button id="btnOther" class="btn btn-default" type="button" data-panel="#panel2" data-amount="">Payment for something else</button>
+
+      <input type="hidden" id="frmPurpose"/>
+      <input type="hidden" id="frmMerchant" value="nwisr"/>
+    </div>
+  </div>
+
+  <div class="panel panel-default bootstrap-basic hidden" id="panel2">
+    <div class="panel-heading">
+      <h3 class="panel-title">Payment Information</h3>
+    </div>
+
+    <div class="form-inputs">
+      <label id="lblPayor" for="frmPayor">Your Name</label>
+      <div class="form-control">
+        <input type="text" id="frmPayor" required minlength="3" placeholder="John Smith">
+      </div>
+
+      <label id="lblReason" for="frmReason">Reason for payment</label>
+      <div class="form-control" id="wrapReason">
+        <input type="text" id="frmReason" required minlength="3" placeholder="Reason for payment">
+      </div>
+
+      <label id="lblFee" for="frmFee">Amount to Pay</label>
+      <div class="form-control" id="wrapFee">
+        <input type="tel" id="frmFee" required pattern="[1-9]([0-9]+)?(\.[0-9]{1,2})?" placeholder="Amount to Pay" min="1" value="{{ site.data.season.fees.team }}"/>
+      </div>
+
+      <label for="frmEmail">Email Address</label>
+      <div class="form-control">
+        <input type="email" id="frmEmail" required maxlength="40" placeholder="Email" autocomplete="email"/>
+      </div>
+
+      <label for="frmPhone">Phone Number</label>
+      <div class="form-control">
+        <input type="tel" id="frmPhone" required pattern="[0-9() -]{14}" minlength="14" maxlength="14" placeholder="Phone" autocomplete="phone"/>
+      </div>
+
+      <div class="row">
+        <div class="col-xs-4">
+          <button id="btnBack1" class="btn" type="button" data-panel="#panel1">Back</button>
+        </div>
+        <div class="col-xs-8">
+          <button id="btnNext" class="btn btn-default" type="button" data-panel="#panel3">Next</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="panel panel-default bootstrap-basic hidden" id="panel3">
+    <div class="panel-heading">
+      <h3 class="panel-title">Make Payment</h3>
+    </div>
+
+    <div class="form-inputs">
+      <label for="frmCCName">Name on card</label>
+      <div class="form-control">
+        <input type="text" id="frmCCName" required placeholder="Cardholder Name" autocomplete="cc-name" data-braintree-name="cardholder_name"/>
+      </div>
+
+      <label class="control-label">Card Number</label>
+      <div class="form-control" id="frmCCNum"></div>
+      <span class="helper-text"></span>
+
+      <label class="control-label">Expiration Date</label>
+      <div class="form-control" id="frmCCExp"></div>
+
+      <label class="control-label">Security Code</label>
+      <div class="form-control" id="frmCCCVC"></div>
+
+      <label class="control-label">Zipcode</label>
+      <div class="form-control" id="frmCCZip"></div>
+
+      <div class="row">
+        <div class="col-xs-4">
+          <button id="btnBack2" class="btn" type="button" data-panel="#panel2">Back</button>
+        </div>
+        <div class="col-xs-8">
+          <button id="btnPay" class="btn btn-default" type="submit">Send Payment</button>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+
+  <div class="panel panel-default bootstrap-basic hidden" id="panel4">
+    <div class="panel-heading">
+      <h3 class="panel-title">Payment Sent</h3>
+    </div>
+
+    <div class="form-inputs">
+      <p>
+        Your payment has been successfully charged to your
+        <strong id="cardTypeDisplay"></strong> ending in
+        <strong id="last4Display"></strong>.
+        Your transaction id is:
+      </p>
+      <div id="transactionIdDisplay"></div>
+
+      <p>
+        The following transaction details will appear on your next statement:
+      </p>
+
+      <div class="row">
+        <div class="col-xs-8">
+          <strong id="descriptorDisplay"></strong>
+        </div>
+        <div class="col-xs-4">
+          <strong id="feeDisplay"></strong>
+        </div>
+      </div>
+
+      <button id="btnDone" class="btn" type="button" data-href="/">Done</button>
+    </div>
+  </div>
+
+  <div class="panel panel-default bootstrap-basic hidden" id="panelError">
+    <div class="panel-heading">
+      <h3 class="panel-title">Payment Error</h3>
+    </div>
+
+    <div class="form-inputs">
+      <p>An error has occured and your payment has NOT been processed.</p>
+      <p id="errorMessage"></p>
+
+      <div class="row">
+        <div class="col-xs-4">
+          <button id="btnCancel" class="btn" type="button" data-href="/">Cancel</button>
+        </div>
+        <div class="col-xs-8">
+          <button id="btnRetry" class="btn btn-default" type="button" data-panel="#panel1" data-amount="">Update and Retry</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel panel-default bootstrap-basic hidden" id="panelFail">
+    <div class="panel-heading">
+      <h3 class="panel-title">System Failure</h3>
+    </div>
+
+    <div class="form-inputs">
+      <p>The payment system is unavailable at this time. Please try again later.</p>
+    </div>
+  </div>
+
+</form>
+<!-- End payment form -->
