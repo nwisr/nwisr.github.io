@@ -26,24 +26,24 @@
     /* Team slideshow
     ----------------------------------------------*/
     $("#team-carousel").owlCarousel({
- 
+
         autoPlay: 5000, //Set AutoPlay to 5 seconds
 
         items : 4,
         itemsDesktopSmall : [979,3],
         stopOnHover: true
- 
+
     });
 
     /* Testimonials slideshow
     ----------------------------------------------*/
     $("#testimonial-carousel").owlCarousel({
- 
+
         autoPlay: 6000, //Set AutoPlay to 6 seconds
- 
+
         singleItem: true,
         pagination : false
- 
+
     });
 
     /* Tooltip
@@ -56,16 +56,26 @@
         type:'image'
     });
 
+    $('.popup-with-iframe').magnificPopup({
+      type: 'iframe',
+      iframe: {
+        markup: '<div class="mfp-iframe-scaler your-special-css-class">' +
+          '<div class="mfp-close"></div>' +
+          '<iframe class="mfp-iframe" frameborder="0" allowfullscreen>Loading...</iframe>' +
+          '</div>'
+      }
+    });
+
     /* Google map
     ----------------------------------------------*/
     $(".map").each(function(){
-            
+
         var data_zoom = 17;
-        
+
         if ($(this).attr("data-zoom") !== undefined) {
             data_zoom = parseInt($(this).attr("data-zoom"),10);
-        }   
-        
+        }
+
         $(this).gmap3({
             marker: {
                 values: [{
@@ -85,7 +95,7 @@
                         } else {
                             $(this).gmap3({
                                 infowindow:{
-                                    anchor:marker, 
+                                    anchor:marker,
                                     options:{content: context.data}
                                 }
                             });
@@ -101,8 +111,7 @@
                 }
             }
         });
-        
-    });
-          
-})(jQuery);
 
+    });
+
+})(jQuery);
