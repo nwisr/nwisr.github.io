@@ -101,6 +101,8 @@ module.exports = function (grunt) {
           '_data/*.yml',
           '_clients/*',
           '_rules/*',
+          '_newreferees/*',
+          'newreferees/*',
           'about/*',
           'forms/*',
           'arenas.html',
