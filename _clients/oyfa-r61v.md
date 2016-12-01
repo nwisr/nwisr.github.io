@@ -1,6 +1,6 @@
 ---
-name: Indoor Goals
-code: idg
+name: OYFA
+code: oyfa
 facility: false
 fee: $10 per team per game
 web: www.indoorgoals.com
