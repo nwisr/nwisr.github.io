@@ -9,10 +9,6 @@ published: true
 
 Team sizes:
 
-* U-9 through U-11: 7 players
-* U-13 through Adults: 6 players
-* Coed: 7 players
-
- 
-
- 
+* U-9 through U-11: 5 players
+* U-13 through Adults: 5 players
+* Coed: 5 players
