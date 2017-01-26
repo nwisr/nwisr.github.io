@@ -1,5 +1,5 @@
 ---
-name: Rose City Futsal
+name: Rose City Futsal East
 code: rcf
 facility: true
 fee: $10 per team per game
