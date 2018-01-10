@@ -24,6 +24,8 @@ If you wish to work both Indoor and Futsal games (and you have paid for both), y
 
 ## Register for a Sportzing account
 
+NOTE: We have changed from SportZing to Horizon. The following information is out-of-date. Please sign up on Horizon.
+
 You need to [register for a personal Sportzing account](https://sportzing.com/sz/register/tstg). You may click the previous link, or go to the [NWISR home page](https://nwisr.com/) and click on the Sportzing tab.
 
 Once registered, you will soon get your account verification email. Click onto the link in that email and enter your authorization code.
@@ -32,6 +34,8 @@ It is important that you never create more than one Sportzing account or you may
 
 ## Sign up for leagues (indoor facilities)
 
+NOTE: We have changed from SportZing to Horizon. The following information is out-of-date.
+
 Each indoor or futsal facility is considered a separate league within Sportzing. When you login to Sportzing for the first time, you will not be a member of any leagues. The first thing you should do is join the facilities (leagues) you want to work at using the Sportzing website.
 
 As an Independent Contractor, you can sign up for as many or as few facilities as you wish, but the more you are willing to work in, the more likely you are to get games. If you only sign up for one facility, and that facility only has one floor, and has games on only a few nights a week, you are not likely to be assigned to many (or any) games at that facility.
@@ -39,6 +43,8 @@ As an Independent Contractor, you can sign up for as many or as few facilities a
 To sign up for leagues on Sportzing, you will need to login and then go to Sportzing version 1. Do this by clicking the green star-like logo in the top left of the screen and selecting **Go to Version 1** from the menu. Next, click on **Referees** on the left and then **My Leagues**. If you click on the league name, a bit of information about that league will be shown. Select the leagues you wish to join by clicking the blue plus (+) symbol.
 
 ## Submit your availabilities
+
+NOTE: We have changed from SportZing to Horizon. The following information is out-of-date.
 
 Once you have joined the leagues you wish to work in, the next step is to choose when you are available to be assigned. You may submit your availabilities as far in the future as you wish, but most referees provide availabilities for the next few weeks. You will need to keep your availabilities updated regularly. Our referee week is Monday through Sunday with the schedule completed on the Friday before. You must have your availability entered by Wednesday of each week. The more hours/days you can make yourself available the more likely you are to get (more) games.
 
@@ -50,9 +56,13 @@ Click on the **Availabilities** tab and select the days you are available during
 
 ## Confirm assignments
 
+NOTE: We have changed from SportZing to Horizon. The following information is out-of-date.
+
 Login to Sportzing and click on the **Assignments** tab within version 2. Any assignments that have been given to you will show up in the list. You may *Accept* or *Decline* these assignments. You may also be able to *Turn back* assignments that are further out. If you have indicated you are available, I am expecting that you will accept your games. If you cannot for some reason, please make sure to explain why you are unable. I tend to stop assigning games to people who repeatedly decline or turn back games.
 
 ## Login regularly
+
+NOTE: We have changed from SportZing to Horizon. The following information is out-of-date.
 
 You should regularly check the [Northwest Indoor Soccer Referees](https://nwisr.com/) website for updates. Important notices such as weather related facility closures will be posted on the top of the home page. You can find forms, rules, and other information on the site. You should also use the site as a pathway to accessing your Sportzing account.
 
