@@ -39,7 +39,6 @@ The chart below lists each facility that we service and the payments, the per te
 |Beaverton Indoor Soccer|$10|$20|$24.00|$0.45|
 |Mittleman Jewish CC|$10|$20|$24.00|$0.45|
 |OHSU|$10|$20|$24.00|$0.45|
-|PDX Sports Center|$10|$20|$24.00|$0.45|
 |Rose City Futsal|$10|$20|$20.00|$0.42|
 |Salmon Creek Indoor|$9|$18|$21.60|$0.41|
 |Tualatin Indoor Soccer|$9|$18|$21.60|$0.41|
@@ -52,7 +51,6 @@ For more information, and to see information about what level of games they offe
 |Beaverton Indoor Soccer|1|http://www.beavertonsoccer.com/|
 |Mittleman Jewish CC|1|https://www.oregonjcc.org/|
 |OHSU|1|OHSU|
-|PDX Sports Center|1/2*|http://pdxsportscenter.com/|
 |Rose City Futsal -Tigard|3|http://rosecityfutsal.com/|
 |Rose City Futsal|3|http://rosecityfutsal.com/|
 |Salmon Creek Indoor|2|https://scsoccerarena.com/|
