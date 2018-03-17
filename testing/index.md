@@ -6,7 +6,7 @@ Once you start a test, you will have 30 days to complete the test. Duis ut biben
 
 The following tests are available:
 
-* [Basic Futsal](https://www.classmarker.com/a/tests/test/?test_id=917319)
+* [Basic Futsal](https://www.classmarker.com/online-test/start/?quiz=fej5aac497e9d967)
 * [Intermediate Futsal](http://daringfireball.net/projects/markdown/)
 * [Advanced Futsal](http://daringfireball.net/projects/markdown/)
 * [Basic Indoor Soccer](http://daringfireball.net/projects/markdown/)
