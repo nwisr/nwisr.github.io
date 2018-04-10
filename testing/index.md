@@ -9,6 +9,6 @@ The following tests are available:
 * [Basic Futsal](https://www.classmarker.com/online-test/start/?quiz=fej5aac497e9d967)
 * [Intermediate Futsal](http://daringfireball.net/projects/markdown/)
 * [Advanced Futsal](http://daringfireball.net/projects/markdown/)
-* [Basic Indoor Soccer](http://daringfireball.net/projects/markdown/)
+* [Basic Indoor Soccer](https://www.classmarker.com/a/assign/nrgmanage/?assignnew=1&step=1&test_id=926018)
 * [Intermediate Indoor Soccer](http://daringfireball.net/projects/markdown/)
 * [Advanced Indoor Soccer](http://daringfireball.net/projects/markdown/)
