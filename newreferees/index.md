@@ -6,7 +6,7 @@ published: true
 ---
 **Making Payments to become a Referee**
 
-The first thing that you need to do, is to Pay your Class and Registration Fees, before you do any thing else.
+The first thing that you need to do, is to Pay your Registration Fees, before you do any thing else.
 To do this, simply go to NWISR.com, on the black navigation bar at the top of the screen click on Referees,
 there you will see 4 green boxes, go to Make Payment (Pay for registration and recertification) and select what you want to do. Then click on (How to Become a Referee)
 
