@@ -101,27 +101,29 @@ Really – A referee shirt, black shoes, black socks, black short or pants, the 
 
 The chart below lists each facility that we service and the payments, the per team and per game should be self-explanatory. The per hour is how much you make for each hour you are at the facility (not including time before your first or after your last game). That is, the amount you make per hour for your block of games, including halftime and between games. The per minute fee is how much you make at that facility for each minute of game time, this calculation does not include halftime or between games, but only how much you make for the minutes of game time. These fees are the same for youth games and adult games, daytime games and night time games.
 
-**Facility**	           **Per team** 	**Per game**	**Per hour** 	     **Per minute 
-                               **fee**          **fee**         **fee**              **fee**
+|Facility|Per team fee|Per game fee|Per hour fee|Per minute fee|
+|:-------|-----------:|-----------:|-----------:|-------------:|
+|Beaverton Indoor Soccer|$10|$20|$24.00|$0.45|
+|Mittleman Jewish CC|$10|$20|$24.00|$0.45|
+|OHSU|$10|$20|$24.00|$0.45|
+|Rose City Futsal|$10|$20|$20.00|$0.42|
+|Salmon Creek Indoor|$10|$20|$24.00|$0.45|
+|Tualatin Indoor Soccer|$9|$18|$21.60|$0.41|
+|Troutdale Indoor Soccer|$10|$20|$24.00|$0.50|
 
-Beaverton Indoor Soccer	        $10	            $20	            $24.00	             $0.45
-Mittleman Jewish CC	            $10	            $20	            $24.00	             $0.45
-OHSU	                        $10	            $20	            $24.00	             $0.45
-Rose City Futsal	            $10	            $20	            $20.00	             $0.42
-Salmon Creek Indoor	            $10	            $20	            $24.00	             $0.45
-Tualatin Indoor Soccer	        $9	            $18	            $21.60	             $0.41
-Troutdale Indoor Soccer	        $10	            $20	            $24.00	             $0.50
 
 For more information, and to see information about what level of games they offer, look at the facility website:
 
-Facility	               # floor	            Website
-Beaverton Indoor Soccer	      1	                http://www.beavertonsoccer.com/
-Mittleman Jewish CC	          1	                https://www.oregonjcc.org/
-OHSU	                      1	                OHSU
-Rose City Futsal -Tigard	  3	                http://rosecityfutsal.com/
-Rose City Futsal	          3	                http://rosecityfutsal.com/
-Salmon Creek Indoor	          2	                https://scsoccerarena.com/
-Tualatin Indoor Soccer	     1/2*	            http://www.tualatinindoor.com/
-Troutdale Indoor Soccer	      1	                http://www.troutdaleindoorsoccer.com/
+|Facility|# floor|Website|
+|:-------|:-----:|:------|
+|Beaverton Indoor Soccer|1|http://www.beavertonsoccer.com/|
+|Mittleman Jewish CC|1|https://www.oregonjcc.org/|
+|OHSU|1|OHSU|
+|Rose City Futsal -Tigard|3|http://rosecityfutsal.com/|
+|Rose City Futsal|3|http://rosecityfutsal.com/|
+|Salmon Creek Indoor|2|https://scsoccerarena.com/|
+|Tualatin Indoor Soccer|1/2*|http://www.tualatinindoor.com/|
+|Troutdale Indoor Soccer|1|http://www.troutdaleindoorsoccer.com/|
+
 
 * Short sided or Futsal
