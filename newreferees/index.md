@@ -24,6 +24,7 @@ Here are the steps to become a part of our association. They must be done in the
 
 7.	Now you are a full-fledged referee for NWISRA and a member of our association, you will use Horizon Web Ref to signal your availability for games and to accept assignments. Once you accept an assignment you are expected to complete those games.
 
+
 **How to Register for and use a Horizon Web Ref Account**
 
 Send an email to eric@toservethegame.com requesting to be added and you will then receive an email from Horizon Web Ref inviting you to join, you must do this in order to finish training. The email you use for this should be an email address that you check AT LEAST daily. 
