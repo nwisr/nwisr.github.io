@@ -22,7 +22,7 @@ Here are the steps to become a part of our association. They must be done in the
 6.	Once you are recommended for assignment you may be scheduled to do games on your own, more likely you will be scheduled with another referee in training – if this is the case you will each get ½ of the referee fee for each game.
 
 
-7.	Now you are a full-fledged referee for NWISRA and a member of our association, you will use Horizon Web Ref to signal your availability for games and to accept assignments. Once you accept an assignment you are expected to complete those games. 
+7.	Now you are a full-fledged referee for NWISRA and a member of our association, you will use Horizon Web Ref to signal your availability for games and to accept assignments. Once you accept an assignment you are expected to complete those games.
 
 **How to Register for and use a Horizon Web Ref Account**
 
