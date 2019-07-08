@@ -8,21 +8,21 @@ We welcome new people to become part of our association. Because most of the gam
 
 **Here are the steps to become a part of our association. They must be done in the order noted.**
 
-**1.	Take and pass the online rules test(s) – There are separate test for Indoor and Futsal and most of our referees do them both – the tests are open book and you can take them multiple times the idea is to learn the rules rather than to trip you up.**
+**1.	Register as a member of the association and pay the fee – this fee is $80 to do both Futsal and Indoor training (and thus have access to more games) or $75 for one form only. This fee also includes the annual registration fee of $65 so the training is quite a bargain.**  
 
-**2.	Register as a member of the association and pay the fee – this fee is $80 to do both Futsal and Indoor training (and thus have access to more games) or $75 for one form only. This fee also includes the annual registration fee of $65 so the training is quite a bargain.**  
+**2.	Register to use the assigning website Horizon web Ref  following the directions below – not only will this be where you will get your assignments once you are fully trained this is also where you will get your training assignments. See instructions below.**
 
-**3.	Register to use the assigning website Horizon web Ref  following the directions below – not only will this be where you will get your assignments once you are fully trained this is also where you will get your training assignments. See instructions below.**
-
-**4.	At this point you must have or obtain at least a few commercially manufactured referee shirts along with black “sweat” pants or shorts with pockets. You must have at least one whistle and red/yellow cards. If you are doing indoor soccer you must also have a blue card (futsal does not use a blue card). You must be fully prepared to referee a game, including meeting our association dress code (see below), before you step on to the field.**
+**3.	At this point you must have or obtain at least a few commercially manufactured referee shirts along with black “sweat” pants or shorts with pockets. You must have at least one whistle and red/yellow cards. If you are doing indoor soccer you must also have a blue card (futsal does not use a blue card). You must be fully prepared to referee a game, including meeting our association dress code (see below), before you step on to the field.**
 
 
-**5.	Do on-field training with a senior referee, you will need to be separately certified for indoor and Futsal if you have selected to do both. Most of our on-field training is done using headsets.  When you train with a senior referee/trainer you do not get paid. Referees with a lot of outdoor experience usually only take a few days/nights of training on each type of games, some referees require multiple sessions with senior referees before they are recommended for assignment. You must have the recommendation of at least one senior referee/trainer for each type of game (indoor/Futsal) before you can move on to the next step.**
+**4.	Do on-field training with a senior referee, you will need to be separately certified for indoor and Futsal if you have selected to do both. Most of our on-field training is done using headsets.  When you train with a senior referee/trainer you do not get paid. Referees with a lot of outdoor experience usually only take a few days/nights of training on each type of games, some referees require multiple sessions with senior referees before they are recommended for assignment. You must have the recommendation of at least one senior referee/trainer for each type of game (indoor/Futsal) before you can move on to the next step.**
 
-**6.	Once you are recommended for assignment you may be scheduled to do games on your own, more likely you will be scheduled with another referee in training – if this is the case you will each get ½ of the referee fee for each game.**
+**5.	Once you are recommended for assignment you may be scheduled to do games on your own, more likely you will be scheduled with another referee in training – if this is the case you will each get ½ of the referee fee for each game.**
 
 
-**7.	Now you are a full-fledged referee for NWISRA and a member of our association, you will use Horizon Web Ref to signal your availability for games and to accept assignments. Once you accept an assignment you are expected to complete those games.**
+**6.	Now you are a full-fledged referee for NWISRA and a member of our association, you will use Horizon Web Ref to signal your availability for games and to accept assignments. Once you accept an assignment you are expected to complete those games.**
+
+**7.	Take and pass the online rules test(s) – There are separate test for Indoor and Futsal and most of our referees do them both – the tests are open book and you can take them multiple times the idea is to learn the rules rather than to trip you up.**
 
 
 **How to Register for and use a Horizon Web Ref Account**
