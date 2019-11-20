@@ -109,7 +109,7 @@ The chart below lists each facility that we service and the payments, the per te
 |OHSU|$10|$20|$24.00|$0.45|
 |Rose City Futsal|$10|$20|$20.00|$0.42|
 |Salmon Creek Indoor|$10|$20|$24.00|$0.45|
-|Tualatin Indoor Soccer|$9|$18|$21.60|$0.41|
+|Tualatin Indoor Soccer|$10|$20|$24.00|$0.45|
 |Troutdale Indoor Soccer|$10|$20|$24.00|$0.50|
 
 
