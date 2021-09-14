@@ -14,10 +14,11 @@ As an Independent Contractor, you can sign up for as many or as few facilities a
 
 You can go to the availability calendar and click on Block venues or block leagues to select any facilities where you don’t want to work.  If you are Futsal certified only you can only be assigned to facilities that do Futsal. If you are Indoor certified only you can only be assigned to facilities that do Indoor. If you are certified for both you double your chances of being assigned to more games. 
 
-2**Submit your availabilities**
+**2 Submit your availabilities**
+
 Again, from the availability calendar, you may submit your availabilities as far in the future as you wish, but most referees provide availabilities for the next few weeks or months. You will need to keep your availabilities updated regularly. Our referee week is Monday through Sunday with the schedule completed usually a few weeks in advance. The more hours/days you can make yourself available the more likely you are to get (more) games.
 
-**3  Here are the steps to become a part of our association. They must be done in the order noted.**
+**3,  Here are the steps to become a part of our association. They must be done in the order noted.**
 YOU must create a Payment Center Account on Horizon web ref – the instructions are here https://horizonwebref.uservoice.com/knowledgebase/articles/1908505-how-to-create-a-receiver-account
 
 There is a one-time $10 fee that you must pay to set up an account. As long as you do at least one game per year that is paid through HorizonWebRef your payment center account remains active and you have no additional fees.
@@ -105,5 +106,3 @@ For more information, and to see information about what level of games they offe
 |Salmon Creek Indoor|2|https://scsoccerarena.com/|
 |Tualatin Indoor Soccer|1/2*|http://www.tualatinindoor.com/|
 |Troutdale Indoor Soccer|1|http://www.troutdaleindoorsoccer.com/|
-
- 
