@@ -6,7 +6,7 @@ published: true
 ---
 We welcome new people to become part of our association. Because most of the games we service are adult games we require all our referees to be 17 or older. Most of our referees started by being a USSF registered referee and have taken the USSF training course and refereed several outdoor games before coming to us. This is highly recommended, but we have also seen successful referees with indoor/futsal playing experience. If you are both an experienced outdoor referee and have played the indoor game we would love to have you join us, however, neither of those things is required. As long as you are over 17 and want to learn about the indoor and Futsal forms of soccer you are welcome to become a member of our association.
 
-**1  How to Register for and use a Horizon Web Ref Account**
+**1   How to Register for and use a Horizon Web Ref Account**
 
 Send an email to eric@toservethegame.com requesting to be added and you will then receive an email from Horizon Web Ref inviting you to join.  The email you use for this should be an email address that you check AT LEAST daily. 
 Each indoor or futsal facility is considered a separate league within Horizon Web Ref. When you log in to Horizon Web Ref for the first time the system will walk you through setting up your profile, including all required items. By default, you are available to work at all of the facilities we service.
@@ -44,7 +44,7 @@ That, in a nutshell, is it. Once you are perceived negatively, every little thin
 
 **6   NWISR Uniform Policy:**
 
-**7 Correct uniform**
+**7  Correct uniform**
 
 1. Commercially manufactured referee shirt of any brand in any color and any sleeve length. In generally good repair (no holes, not severely faded, etc.) You should always have two or three different colors with you in case you conflict with teams.
 2. Shorts or “Sweat” pants—should be solid black or navy blue with little or no decoration or trim of other colors. Can be commercially manufactured referee shorts or pants, but do not need to be.
