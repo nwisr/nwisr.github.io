@@ -44,7 +44,7 @@ That, in a nutshell, is it. Once you are perceived negatively, every little thin
 
 **6   NWISR Uniform Policy:**
 
-**Correct uniform**
+**7 Correct uniform**
 
 1. Commercially manufactured referee shirt of any brand in any color and any sleeve length. In generally good repair (no holes, not severely faded, etc.) You should always have two or three different colors with you in case you conflict with teams.
 2. Shorts or “Sweat” pants—should be solid black or navy blue with little or no decoration or trim of other colors. Can be commercially manufactured referee shorts or pants, but do not need to be.
@@ -55,33 +55,33 @@ That, in a nutshell, is it. Once you are perceived negatively, every little thin
 7. Red, Yellow, & Blue cards – you MUST have a blue card prior to doing any indoor game.
 8. Optional, Solid color (preferably black or navy) shirt worn UNDER your referee shirt 
 
-**Incorrect uniform:** 
+**8  Incorrect uniform:** 
 
 1.	Anything else.
 Really – A referee shirt, black shoes, black socks, black shorts or pants, the badge, whistle, & Red/Yellow/Blue cards. THAT'S IT!!!!! We are not asking too much.
 You must have at least one whistle and red/yellow card. If you are doing indoor soccer you must also have a blue card (futsal does not use a blue card). You must be fully prepared to referee a game, including meeting our association 
 
-**7.	Do on-field training with a senior referee.** 
+**9.	Do on-field training with a senior referee.** 
 
 Most of our on-field training is done using headsets.  When you train with a senior referee/trainer you do not get paid. Referees with a lot of outdoor experience usually only take a few days/nights of training on each type of game, some referees require multiple sessions with senior referees before they are recommended for assignment. You must have the recommendation of at least one senior referee/trainer for each type of game (indoor/Futsal) before you can move on to the next step.
 
-**8	Once you are recommended for an assignment.** 
+**10	Once you are recommended for an assignment.** 
 
 You will be scheduled to do games on your own,
 
-**9	Now you are a full-fledged referee for NWISR and a member of our association, you will use Horizon Web Ref to signal your availability for games and to accept assignments. Once you accept an assignment you are expected to complete those games.**
+**11	Now you are a full-fledged referee for NWISR and a member of our association, you will use Horizon Web Ref to signal your availability for games and to accept assignments. Once you accept an assignment you are expected to complete those games.**
 
-**9 Confirm assignments**
+**12 Confirm assignments**
 
 Horizon Web Ref will notify you (via email/text or both depending on your preferences) when you have been assigned to a game or set of games, you generally have 24 hours to accept or decline the games. You should confirm all games as soon as possible; they are not assigned to you until you have confirmed them. 
 
-**10  ogin regularly**
+**13  ogin regularly**
 
 You should regularly check the Northwest Indoor Soccer Referees website for updates. Important notices such as weather-related facility closures will be posted on the top of the home page. You can find forms, rules, and other information on the site. You should also use the site as a pathway to accessing your Horizon Web Ref account.
 It is your responsibility to monitor your Horizon Web Ref account for assignments. Ideally, you should log in daily to check for any changes or last-minute assignments. Schedules change often and you may have games added or removed from your schedule. I typically reach out via phone if any changes happen within a few hours of game time, but that is not guaranteed and I will always expect you to check online before going to a facility.
 You are strongly encouraged to turn on the Text notification feature of Horizon Web Ref to keep notified of changes to your schedule as much as possible.
 
-**11  Facility Information:**
+**14  Facility Information:**
 
 The chart below lists each facility that we service and the payments, the per team and per game should be self-explanatory. The per hour is how much you make for each hour you are at the facility (not including time before your first or after your last game). That is, the amount you make per hour for your block of games, including halftime and between games. The per minute fee is how much you make at that facility for each minute of game time, this calculation does not include halftime or between games, but only how much you make for the minutes of game time. These fees are the same for youth games and adult games, daytime games and night time games.
 
