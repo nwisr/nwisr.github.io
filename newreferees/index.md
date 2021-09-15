@@ -6,7 +6,7 @@ published: true
 ---
 We welcome new people to become part of our association. Because most of the games we service are adult games we require all our referees to be 17 or older. Most of our referees started by being a USSF registered referee and have taken the USSF training course and refereed several outdoor games before coming to us. This is highly recommended, but we have also seen successful referees with indoor/futsal playing experience. If you are both an experienced outdoor referee and have played the indoor game we would love to have you join us, however, neither of those things is required. As long as you are over 17 and want to learn about the indoor and Futsal forms of soccer you are welcome to become a member of our association.
 
-1**How to Register for and use a Horizon Web Ref Account**
+**1  How to Register for and use a Horizon Web Ref Account**
 
 Send an email to eric@toservethegame.com requesting to be added and you will then receive an email from Horizon Web Ref inviting you to join.  The email you use for this should be an email address that you check AT LEAST daily. 
 Each indoor or futsal facility is considered a separate league within Horizon Web Ref. When you log in to Horizon Web Ref for the first time the system will walk you through setting up your profile, including all required items. By default, you are available to work at all of the facilities we service.
@@ -75,7 +75,7 @@ You will be scheduled to do games on your own,
 
 Horizon Web Ref will notify you (via email/text or both depending on your preferences) when you have been assigned to a game or set of games, you generally have 24 hours to accept or decline the games. You should confirm all games as soon as possible; they are not assigned to you until you have confirmed them. 
 
-**13  ogin regularly**
+**13  Login regularly**
 
 You should regularly check the Northwest Indoor Soccer Referees website for updates. Important notices such as weather-related facility closures will be posted on the top of the home page. You can find forms, rules, and other information on the site. You should also use the site as a pathway to accessing your Horizon Web Ref account.
 It is your responsibility to monitor your Horizon Web Ref account for assignments. Ideally, you should log in daily to check for any changes or last-minute assignments. Schedules change often and you may have games added or removed from your schedule. I typically reach out via phone if any changes happen within a few hours of game time, but that is not guaranteed and I will always expect you to check online before going to a facility.
