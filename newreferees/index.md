@@ -46,7 +46,7 @@ Horizon web Ref following the directions below – not only will this be where y
 We have the most permissive uniform code of any referee association that we know of and yet some people feel the need to go outside of it. How Are You Being Perceived in the Workplace? It’s really important because people form their judgments of us based on what they see and observe about us in the workplace.  Once we are viewed in a negative light, everything we do from that point on will be blown out of proportion or questioned.
 That, in a nutshell, is it. Once you are perceived negatively, every little thing becomes bigger.
 
-**7. NWISR Uniform Policy**
+**7. NWISR Uniform Policy.**
 
 1. Commercially manufactured referee shirt of any brand in any color and any sleeve length. In generally good repair (no holes, not severely faded, etc.) You should always have two or three different colors with you in case you conflict with teams.
 
