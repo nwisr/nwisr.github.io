@@ -7,21 +7,22 @@ published: true
 
 We welcome new people to become part of our association. Because most of the games we service are adult games we require all our referees to be 17 or older. Most of our referees started by being USSF registered referees and have taken the USSF training course and refereed several outdoor games before coming to us. This is highly recommended, but we have also seen successful referees with indoor/futsal playing experience. If you are both an experienced outdoor referee and have played the indoor game we would love to have you join us, however, neither of those things is required. As long as you are over 17 and want to learn about the indoor and Futsal forms of soccer you are welcome to become a member of our association.
 
-1** Here are the steps to become a part of our association. They must be done in the order noted.**
-YOU must create a Payment Center Account on Horizon web ref – the instructions are here 
+1**Here are the steps to become a part of our association.** 
 
-https://horizonwebref.uservoice.com/knowledgebase/articles/1908505-how-to-create-a-receiver-account
+They must be done in the order noted.You must create a Payment Center Account on Horizon web ref – the instructions are here 
+
+**https://horizonwebref.uservoice.com/knowledgebase/articles/1908505-how-to-create-a-receiver-account**
 
 There is a one-time $10 fee that you must pay to set up an account. As long as you do at least one game per year that is paid through HorizonWebRef your payment center account remains active and you have no additional fees.
 
 You will then need to add a bank account to your HorizonWebRef – which will require your bank name and your online login credentials - Login/password (for your bank). This will instantly connect your account. No, I can’t take any money out of your account. Here is information on adding an account
 
-https://horizonwebref.uservoice.com/knowledgebase/articles/1884268
+**https://horizonwebref.uservoice.com/knowledgebase/articles/1884268**
 
 To get paid for any game,  you must get this taken care of. I’m sorry about the $10 fee, but I’m paying all the other fees associated with this and the .85 transaction fee for each payment made, so I hope you’ll see that that this is reasonable.
 You will have all your payment records in one place for accounting and tax information as needed. As soon as possible, set up your payment center account on HorizonWebRef – 
 
-https://horizonwebref.uservoice.com/knowledgebase/articles/1908505-how-to-create-a-receiver-account
+**https://horizonwebref.uservoice.com/knowledgebase/articles/1908505-how-to-create-a-receiver-account**
 
 **2. How to Register for and use a Horizon Web Ref Account**
 To use the assigning website Horizon web Ref following the directions below – not only will this be where you will get your assignments once you are fully trained this is also where you will get your training assignments. See instructions below.
@@ -35,13 +36,13 @@ You can sign up for as many or as few facilities as you wish, but the more you a
 
 You can go to the availability calendar and click on Block venues or block leagues to select any facilities where you don’t want to work.  If you are Futsal certified only you can only be assigned to facilities that do Futsal. If you are Indoor certified only you can only be assigned to facilities that do Indoor. If you are certified for both you double your chances of being assigned to more games. 
 
-**4.  Submit your availabilities**
+**4.Submit your availabilities**
 Again, from the availability calendar, you may submit your availabilities as far in the future as you wish, but most referees provide availabilities for the next few weeks or months. You will need to keep your availabilities updated regularly. Our referee week is Monday through Sunday with the schedule completed usually a few weeks in advance. The more hours/days you can make yourself available the more likely you are to get (more) games.
 
 **5. Register to use the assigning website.**	
 Horizon web Ref following the directions below – not only will this be where you will get your assignments once you are fully trained this is also where you will get your training assignments. See instructions below.
 
-**6. Dress Code:**
+**6.Dress Code:**
 We have the most permissive uniform code of any referee association that we know of and yet some people feel the need to go outside of it. How Are You Being Perceived in the Workplace? It’s really important because people form their judgments of us based on what they see and observe about us in the workplace.  Once we are viewed in a negative light, everything we do from that point on will be blown out of proportion or questioned.
 That, in a nutshell, is it. Once you are perceived negatively, every little thing becomes bigger.
 
