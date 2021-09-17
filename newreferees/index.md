@@ -7,7 +7,7 @@ published: true
 
 We welcome new people to become part of our association. Because most of the games we service are adult games we require all our referees to be 17 or older. Most of our referees started by being USSF registered referees and have taken the USSF training course and refereed several outdoor games before coming to us. This is highly recommended, but we have also seen successful referees with indoor/futsal playing experience. If you are both an experienced outdoor referee and have played the indoor game we would love to have you join us, however, neither of those things is required. As long as you are over 17 and want to learn about the indoor and Futsal forms of soccer you are welcome to become a member of our association.
 
-1**Here are the steps to become a part of our association.** 
+**. Here are the steps to become a part of our association.** 
 
 They must be done in the order noted.You must create a Payment Center Account on Horizon web ref – the instructions are here 
 
@@ -25,24 +25,30 @@ You will have all your payment records in one place for accounting and tax infor
 **https://horizonwebref.uservoice.com/knowledgebase/articles/1908505-how-to-create-a-receiver-account**
 
 **2. How to Register for and use a Horizon Web Ref Account**
+
 To use the assigning website Horizon web Ref following the directions below – not only will this be where you will get your assignments once you are fully trained this is also where you will get your training assignments. See instructions below.
+
 Send an email to eric@toservethegame.com requesting to be added and you will then receive an email from Horizon Web Ref inviting you to join.  The email you use for this should be an email address that you check 
 AT LEAST daily. 
 
 Each indoor or futsal facility is considered a separate league within Horizon Web Ref. When you log in to Horizon Web Ref for the first time the system will walk you through setting up your profile, including all required items. By default, you are available to work at all of the facilities we service.
 
 **3.  As an Independent Contractor.**
+
 You can sign up for as many or as few facilities as you wish, but the more you are willing to work in, the more likely you are to get games. If you only sign up for one facility, and that facility only has one floor and has games on only a few nights a week, you are not likely to be assigned to many (or any) games at that facility.
 
 You can go to the availability calendar and click on Block venues or block leagues to select any facilities where you don’t want to work.  If you are Futsal certified only you can only be assigned to facilities that do Futsal. If you are Indoor certified only you can only be assigned to facilities that do Indoor. If you are certified for both you double your chances of being assigned to more games. 
 
 **4.Submit your availabilities**
+
 Again, from the availability calendar, you may submit your availabilities as far in the future as you wish, but most referees provide availabilities for the next few weeks or months. You will need to keep your availabilities updated regularly. Our referee week is Monday through Sunday with the schedule completed usually a few weeks in advance. The more hours/days you can make yourself available the more likely you are to get (more) games.
 
 **5. Register to use the assigning website.**	
+
 Horizon web Ref following the directions below – not only will this be where you will get your assignments once you are fully trained this is also where you will get your training assignments. See instructions below.
 
 **6.Dress Code:**
+
 We have the most permissive uniform code of any referee association that we know of and yet some people feel the need to go outside of it. How Are You Being Perceived in the Workplace? It’s really important because people form their judgments of us based on what they see and observe about us in the workplace.  Once we are viewed in a negative light, everything we do from that point on will be blown out of proportion or questioned.
 
 That, in a nutshell, is it. Once you are perceived negatively, every little thing becomes bigger.
@@ -83,6 +89,7 @@ It is your responsibility to monitor your Horizon Web Ref account for assignment
 You are strongly encouraged to turn on the Text notification feature of Horizon Web Ref to keep notified of changes to your schedule as much as possible.
 
 **13.Facility Information:**
+
 The chart below lists each facility that we service and the payments, per team and per game, should be self-explanatory. The per hour is how much you make for each hour you are at the facility (not including the time before your first or after your last game). That is, the amount you make per hour for your block of games, including halftime and between games. The per-minute fee is how much you make at that facility for each minute of game time, this calculation does not include halftime or between games, but only how much you make for the minutes of game time. These fees are the same for youth games and adult games, daytime games, and night time games.
 
 |Facility|Per team fee|Per game fee|Per hour fee|Per minute fee|
