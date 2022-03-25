@@ -74,7 +74,7 @@ Most of our on-field training is done using headsets.  When you train with a sen
 
 **10. Now you are a full-fledged referee for NWISR and a member of our association.** 
 
-You will use Horizon Web Ref to signal your availability for games and to accept assignments. Once you accept an assignment you are expected to complete those gameS.
+You will use Horizon Web Ref to signal your availability for games and to accept assignments. Once you accept an assignment you are expected to complete those games.
 
 **11. Confirm assignments**
 
