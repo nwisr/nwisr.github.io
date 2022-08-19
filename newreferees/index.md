@@ -13,23 +13,20 @@ They must be done in the order noted.You must create a Payment Center Account on
 
 **https://horizonwebref.uservoice.com/knowledgebase/articles/1908505-how-to-create-a-receiver-account**
 
-There is a one-time $10 fee that you must pay to set up an account. As long as you do at least one game per year that is paid through HorizonWebRef your payment center account remains active and you have no additional fees.
+There is a one-time fee that you must pay to set up an account. As long as you do at least one game per year that is paid through HorizonWebRef your payment center account remains active and you have no additional fees.
 
 You will then need to add a bank account to your HorizonWebRef – which will require your bank name and your online login credentials - Login/password (for your bank). This will instantly connect your account. No, I can’t take any money out of your account. Here is information on adding an account
 
 **https://horizonwebref.uservoice.com/knowledgebase/articles/1884268**
 
-To get paid for any game,  you must get this taken care of. I’m sorry about the $10 fee, but I’m paying all the other fees associated with this and the .85 transaction fee for each payment made, so I hope you’ll see that that this is reasonable.
+To get paid for any game,  you must get this taken care of. I’m sorry about the fee, but I’m paying all the other fees associated with this and the .85 transaction fee for each payment made, so I hope you’ll see that that this is reasonable.
 You will have all your payment records in one place for accounting and tax information as needed. As soon as possible, set up your payment center account on HorizonWebRef – 
-
-**https://horizonwebref.uservoice.com/knowledgebase/articles/1908505-how-to-create-a-receiver-account**
 
 **2. How to Register for and use a Horizon Web Ref Account**
 
 To use the assigning website Horizon web Ref following the directions below – not only will this be where you will get your assignments once you are fully trained this is also where you will get your training assignments. See instructions below.
 
-Send an email to eric@toservethegame.com requesting to be added and you will then receive an email from Horizon Web Ref inviting you to join.  The email you use for this should be an email address that you check 
-AT LEAST daily. 
+Send an email to eric@toservethegame.com requesting to be added and you will then receive an email from Horizon Web Ref inviting you to join.  The email you use for this should be an email address that you check AT LEAST daily. 
 
 Each indoor or futsal facility is considered a separate league within Horizon Web Ref. When you log in to Horizon Web Ref for the first time the system will walk you through setting up your profile, including all required items. By default, you are available to work at all of the facilities we service.
 
