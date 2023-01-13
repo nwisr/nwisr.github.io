@@ -19,7 +19,7 @@ You will then need to add a bank account to your HorizonWebRef – which will re
 
 **https://horizonwebref.uservoice.com/knowledgebase/articles/1884268**
 
-To get paid for any game,  you must get this taken care of. I’m sorry about the fee, but I’m paying all the other fees associated with this and the .95 transaction fee for each payment made, so I hope you’ll see that that this is reasonable.
+To get paid for any game, you must get this taken care of. I’m sorry about the fee, but I’m paying all the other fees associated with this website.except the .95 transaction fee for each payment made, so I hope you’ll see that that this is reasonable.
 You will have all your payment records in one place for accounting and tax information as needed. As soon as possible, set up your payment center account on HorizonWebRef – 
 
 **2. How to Register for and use a Horizon Web Ref Account**
