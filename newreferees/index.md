@@ -103,7 +103,6 @@ For more information, and to see information about what level of games they offe
 
 |Facility|# floor|Website|
 |:-------|:-----:|:------|
-|Beaverton Indoor Soccer|1|http://www.beavertonsoccer.com/|
 |Mittleman Jewish CC|1|https://www.oregonjcc.org/|
 |Portland Indoor|1|Portland Indoor|
 |Rose City Futsal -Tigard|3|http://rosecityfutsal.com/|
