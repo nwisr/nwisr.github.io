@@ -95,7 +95,7 @@ The chart below lists each facility that we service and the payments, per team a
 |Portland Indoor|$11.50|$23|$24.00|$0.45|
 |Rose City Futsal|$12.50|$25|$25.00|$0.42|
 |Salmon Creek Indoor|$11.50|$23|$24.00|$0.45|
-|Tualatin Indoor Soccer|$11.50|$25|$25.00|$0.45|
+|Tualatin Indoor Soccer|$12.50|$25|$25.00|$0.45|
 |Troutdale Indoor Soccer|$11.50|$23|$24.00|$0.50|
 
 
