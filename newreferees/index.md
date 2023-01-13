@@ -91,13 +91,12 @@ The chart below lists each facility that we service and the payments, per team a
 
 |Facility|Per team fee|Per game fee|Per hour fee|Per minute fee|
 |:-------|-----------:|-----------:|-----------:|-------------:|
-|Beaverton Indoor Soccer|$10|$20|$24.00|$0.45|
-|Mittleman Jewish CC|$10|$20|$24.00|$0.45|
-|Portland Indoor|$10|$20|$24.00|$0.45|
-|Rose City Futsal|$10|$20|$20.00|$0.42|
-|Salmon Creek Indoor|$10|$20|$24.00|$0.45|
-|Tualatin Indoor Soccer|$10|$20|$24.00|$0.45|
-|Troutdale Indoor Soccer|$10|$20|$24.00|$0.50|
+|Mittleman Jewish CC|$11.50|$23|$24.00|$0.45|
+|Portland Indoor|$11.50|$23|$24.00|$0.45|
+|Rose City Futsal|$12.50|$25|$25.00|$0.42|
+|Salmon Creek Indoor|$11.50|$23|$24.00|$0.45|
+|Tualatin Indoor Soccer|$11.50|$25|$25.00|$0.45|
+|Troutdale Indoor Soccer|$11.50|$23|$24.00|$0.50|
 
 
 For more information, and to see information about what level of games they offer, look at the facility website:
