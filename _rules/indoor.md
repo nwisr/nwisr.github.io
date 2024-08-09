@@ -262,7 +262,6 @@ Unless the referee decides instead to issue a red card when calling a violation 
 
 * Serious or reckless violations of the fouls listed in Rule 6.1, above
 * Committing a second blue card offense
-* Deliberate Handball
 * Goalkeeper Endangerment
 * Boarding
 * Unsporting Behavior
