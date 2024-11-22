@@ -28,9 +28,7 @@ To use the assignment website Horizon Web Ref, please follow the instructions be
 
 **3.  As an Independent Contractor.**
 
-You can sign up for as many or as few facilities as you wish, but the more you are willing to work in, the more likely you are to get games. If you only sign up for one facility, and that facility only has one floor and has games on only a few nights a week, you are not likely to be assigned to many (or any) games at that facility.
-
-You can go to the availability calendar and click on Block venues or block leagues to select any facilities where you don’t want to work.  If you are Futsal certified only you can only be assigned to facilities that do Futsal. If you are Indoor certified only you can only be assigned to facilities that do Indoor. If you are certified for both you double your chances of being assigned to more games. 
+You can sign up for as many or as few facilities as you wish. However, the more facilities you are willing to work in, the more likely you are to get assigned to games. If you only sign up for one facility that has limited availability, you may not be assigned to many (or any) games. To manage your preferences, you can use the availability calendar to block specific venues or leagues where you do not wish to work. If you are only certified in Futsal, you will only be assigned to facilities that offer Futsal. Similarly, if you are only certified in Indoor, you will be assigned to facilities that provide Indoor play. Being certified in both formats significantly increases your chances of being assigned to more games.
 
 **4.Submit your availabilities**
 
