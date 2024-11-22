@@ -5,7 +5,7 @@ title: How to Become a Referee
 published: true
 ---
 
-We welcome new people to become part of our association. Because most of the games we service are adult games we require all our referees to be 17 or older. Most of our referees started by being USSF registered referees and have taken the USSF training course and refereed several outdoor games before coming to us. This is highly recommended, but we have also seen successful referees with indoor/futsal playing experience. If you are both an experienced outdoor referee and have played the indoor game we would love to have you join us, however, neither of those things is required. As long as you are over 17 and want to learn about the indoor and Futsal forms of soccer you are welcome to become a member of our association.
+We welcome new individuals to join our association. Since most of the games we oversee are for adults, we require all referees to be at least 17 years old. Many of our referees began their journey as USSF-registered referees, having completed the USSF training course and officiated several outdoor games before joining us. While this background is highly recommended, we have also seen successful referees who have experience playing indoor or futsal soccer. If you are an experienced outdoor referee and have played indoor soccer, we would love to have you on our team. However, you do not need to meet both of these criteria to join. As long as you are over 17 years old and eager to learn about indoor and futsal soccer, you are welcome to become a member of our association.
 
 
 **1. Here are the steps to become a part of our association.** 
