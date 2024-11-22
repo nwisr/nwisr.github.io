@@ -7,6 +7,7 @@ published: true
 
 We welcome new people to become part of our association. Because most of the games we service are adult games we require all our referees to be 17 or older. Most of our referees started by being USSF registered referees and have taken the USSF training course and refereed several outdoor games before coming to us. This is highly recommended, but we have also seen successful referees with indoor/futsal playing experience. If you are both an experienced outdoor referee and have played the indoor game we would love to have you join us, however, neither of those things is required. As long as you are over 17 and want to learn about the indoor and Futsal forms of soccer you are welcome to become a member of our association.
 
+
 **1. Here are the steps to become a part of our association.** 
 
 They must be done in the order noted.You must create a Payment Center Account on Horizon web ref – the instructions are here 
