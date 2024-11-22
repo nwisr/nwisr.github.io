@@ -14,7 +14,7 @@ They must be done in the order noted.You must create a Payment Center Account on
 
 **https://horizonwebref.uservoice.com/knowledgebase/articles/1908505-how-to-create-a-receiver-account**
 
-We welcome new individuals to join our association. Since most of the games we oversee are for adults, we require all referees to be at least 17 years old. Many of our referees began their journey as USSF-registered referees, having completed the USSF training course and officiated several outdoor games before joining us. While this background is highly recommended, we have also seen successful referees who have experience playing indoor or futsal soccer. If you are an experienced outdoor referee and have played indoor soccer, we would love to have you on our team. However, you do not need to meet both of these criteria to join. As long as you are over 17 years old and eager to learn about indoor and futsal soccer, you are welcome to become a member of our association.
+To set up an account, there is a one-time fee that you must pay. As long as you complete at least one paid game per year through HorizonWebRef, your payment center account will remain active, and you won’t incur any additional fees. Next, you’ll need to add a bank account to your HorizonWebRef profile. This process will require your bank's name and your online login credentials, including your login and password. Once you provide this information, your account will be instantly connected. Please note that I cannot withdraw any money from your account. For more information on adding a bank account, please refer to the instructions provided.
 
 **https://horizonwebref.uservoice.com/knowledgebase/articles/1884268**
 
