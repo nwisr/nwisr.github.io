@@ -22,11 +22,9 @@ It’s important to take care of this matter to receive payment for any game. I 
 
 **2. How to Register for and use a Horizon Web Ref Account**
 
-To use the assigning website Horizon web Ref following the directions below – not only will this be where you will get your assignments once you are fully trained this is also where you will get your training assignments. See instructions below.
+To use the assignment website Horizon Web Ref, please follow the instructions below. This platform is where you will receive your assignments once you have completed your training, as well as access your training assignments.
 
-Send an email to eric@toservethegame.com requesting to be added and you will then receive an email from Horizon Web Ref inviting you to join.  The email you use for this should be an email address that you check AT LEAST daily. 
-
-Each indoor or futsal facility is considered a separate league within Horizon Web Ref. When you log in to Horizon Web Ref for the first time the system will walk you through setting up your profile, including all required items. By default, you are available to work at all of the facilities we service.
+1. Send an email to toservethegame@gmail.com to request being added to the system. After your request is processed, you will receive an email from Horizon Web Ref inviting you to join. Please ensure you use an email address that you check at least daily. 2. Each indoor or futsal facility is treated as a separate league within Horizon Web Ref. When you log in to Horizon Web Ref for the first time, the system will guide you through setting up your profile, including all the required information. By default, you will be available to work at all the facilities we serve.
 
 **3.  As an Independent Contractor.**
 
