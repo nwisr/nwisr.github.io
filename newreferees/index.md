@@ -90,9 +90,7 @@ The chart below lists each facility that we service and the payments, per team a
 |Rose City Futsal|$12.50|$25|$25.00|$0.42|
 |Salmon Creek Indoor|$11.50|$23|$24.00|$0.45|
 |Tualatin Indoor Soccer|$12.50|$25|$25.00|$0.45|
-|Troutdale Indoor Soccer|$11.50|$23|$24.00|$0.50|
-
-
+ 
 For more information, and to see information about what level of games they offer, look at the facility website:
 
 |Facility|# floor|Website|
@@ -103,4 +101,4 @@ For more information, and to see information about what level of games they offe
 |Rose City Futsal|3|http://rosecityfutsal.com/|
 |Salmon Creek Indoor|2|https://scsoccerarena.com/|
 |Tualatin Indoor Soccer|1/2*|http://www.tualatinindoor.com/|
-|Troutdale Indoor Soccer|1|http://www.troutdaleindoorsoccer.com/|
+ 
