@@ -40,7 +40,7 @@ Horizon web Ref following the directions below – not only will this be where y
 
 **6.Dress Code:**
 
-We have the most permissive uniform code of any referee association that we know of and yet some people feel the need to go outside of it. How Are You Being Perceived in the Workplace? It’s really important because people form their judgments of us based on what they see and observe about us in the workplace.  Once we are viewed in a negative light, everything we do from that point on will be blown out of proportion or questioned.
+We have the most permissive uniform code of any referee association, yet some people still feel the need to operate outside of it. How are you being perceived in the workplace? This is crucial because people form their judgments of us based on their observations. Once we are viewed in a negative light, everything we do from that point onward will be magnified or questioned. In summary, once someone is perceived negatively, even the smallest actions can be blown out of proportion.
 
 That, in a nutshell, is it. Once you are perceived negatively, every little thing becomes bigger.
 
