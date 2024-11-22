@@ -32,7 +32,7 @@ You can sign up for as many or as few facilities as you wish. However, the more 
 
 **4.Submit your availabilities**
 
-Again, from the availability calendar, you may submit your availabilities as far in the future as you wish, but most referees provide availabilities for the next few weeks or months. You will need to keep your availabilities updated regularly. Our referee week is Monday through Sunday with the schedule completed usually a few weeks in advance. The more hours/days you can make yourself available the more likely you are to get (more) games.
+You can submit your availability for refereeing as far in advance as you like; however, most referees typically provide their availability for the next few weeks or months. It’s important to keep your availabilities updated regularly. Our referee scheduling runs from Monday to Sunday, and the schedule is usually completed a few weeks in advance. The more hours or days you are available, the more likely you are to receive assignments for games.
 
 **5. Register to use the assigning website.**	
 
