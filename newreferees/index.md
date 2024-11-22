@@ -59,7 +59,7 @@ That, in a nutshell, is it. Once you are perceived negatively, every little thin
 
 **8. Do on-field training with a senior referee.** 
 
-Most of our on-field training is done using headsets.  When you train with a senior referee/trainer you do not get paid. Referees with a lot of outdoor experience usually only take a few days/nights of training on each type of game, some referees require multiple sessions with senior referees before they are recommended for assignment. You must have the recommendation of at least one senior referee/trainer for each type of game (indoor/Futsal) before you can move on to the next step.**
+Most of our on-field training is conducted using headsets. When you train with a senior referee or trainer, you do not receive payment. Referees with extensive outdoor experience typically require only a few days or nights of training for each type of game. However, some referees need multiple sessions with senior referees before they are recommended for an assignment. You must obtain a recommendation from at least one senior referee or trainer for each type of game (indoor or Futsal) before you can progress to the next step.
 
 **9. Once you are recommended for an assignment you will be scheduled to do games on your own,** 
 
