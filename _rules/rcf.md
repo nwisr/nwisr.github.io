@@ -7,4 +7,4 @@ published: true
 
 ## {{ page.title }}
 
-Download the [Rose City Futsal Laws of the Game](http://rosecityfutsal.com/rcf-futsal-rules/)
+Download the [Rose City Futsal Laws of the Game](https://rosecityfutsal.com/rules-and-policies/)
