@@ -34,7 +34,7 @@ Eric started his soccer career at the age of 4 years old but was forced to quit 
 ## International Experience
 
 * USA V Canada (M-U23):  Center
-* Canada (MNT) V Seattle Sounders (A-League):  Line
+* Canada (MNT) V USA (MNT) (A-League):  Line
 * Pumas V Cascade Surge (USISL):  Center
 * China V USA (WNT):  Center
 * England V USA (WNT):  Line
