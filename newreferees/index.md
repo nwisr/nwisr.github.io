@@ -17,7 +17,7 @@ regarding referee performance and rule interpretations. Players often focus on o
 According to the IRS, You are not an independent contractor if you perform services that can be controlled by an employer (what will be done and how it will be done). This applies even if you are given freedom of action. What matters is that the employer has the legal right to control the details of how the services are
 performed Nothing in this document changes prior agreements. It reaffirms the established nature of our relationships, clarifying how independent contractor law operates in this context."
 
-Since most games we oversee are for adults, we require all referees to be at least 17 years old. 
+**Since most games we oversee are for adults, we require all referees to be at least 17 years old.** 
 
 **1. Here are the steps to become a part of our association.** 
 They must be done in the order noted.You must create a Payment Center Account on Horizon web ref – the instructions are here 
