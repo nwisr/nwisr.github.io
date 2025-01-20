@@ -4,8 +4,7 @@ permalink: newreferees/
 title: Important Referee Information
 published: true
 ---
-
-To clarify, the role of the Northwest Indoor Soccer Referee Association (NWISR) in futsal and indoor arenas is that of an independent contractor. We are responsible for coordinating and facilitating the scheduling of
+"To clarify, the role of the Northwest Indoor Soccer Referee Association (NWISR) in futsal and indoor arenas is that of an independent contractor. We are responsible for coordinating and facilitating the scheduling of
 referees based on the specific needs of each facility. In many cases, we also handle the payment of referees as a pass-through service. The referees are independent contractors of NWISR; thus, we provide some training
 and schedule them based on their stated availability. Each referee is responsible for providing their uniform and equipment and performing their duties based on their training and experience.
 
@@ -20,7 +19,7 @@ According to the IRS, “You are not an independent contractor if you perform se
 performed.”
 
 Nothing in this document changes prior agreements. It reaffirms the established nature of our relationships,
-clarifying how independent contractor law operates in this context.
+clarifying how independent contractor law operates in this context."
 
 Since most of the games we oversee are for adults, we require all referees to be at least 17 years old. 
 **1. Here are the steps to become a part of our association.** 
