@@ -6,7 +6,16 @@ title: Important Referee Information
 To clarify, the role of the Northwest Indoor Soccer Referee Association (NWISR) in futsal and indoor arenas is that of an independent contractor. We are responsible for coordinating and facilitating the scheduling of
 referees based on the specific needs of each facility. In many cases, we also handle the payment of referees as a pass-through service. The referees are independent contractors of NWISR; thus, we provide some training
 and schedule them based on their stated availability. Each referee is responsible for providing their uniform and equipment and performing their duties based on their training and experience.
- 
+
+Concerning the facilities, referees do not have a legal relationship with them. The relationship exists solely between the facility and NWISR. Facilities cater to customers, including players and teams. NWISR  and our independent contractor referees do not participate in assessing player eligibility for any specific league, division, team, or game. Some facilities request that NWISR instruct referees to verify player identification cards as a means of confirming player eligibility. Conversely, other facilities have staff members who operate under the employers direction to conduct secondary verification of the referees checks.
+
+NWISR encourages referees to examine player identification cards, as requested by the facility, noting that this process has revenue and liability implications by ensuring players possess valid cards. However, from NWISR's and the referees; perspectives, the importance of the player identification card mainly arises if a red card is issued. Referees are responsible for documenting incidents and submitting the player card to facility staff upon issuing a red card. Some facilities may request that NWISR review red card incidents or other on-field occurrences through video analysis.
+
+The NWISR maintains forms on our website and reviews observations, reports, and videos from facilities
+regarding referee performance and rule interpretations. Players often focus on one or two specific calls made during a game, generally subject to interpretation. Referees have broad discretion to rely on their training and experience. When we conduct reviews, we focus on whether a referee exhibits inherent bias or applies rules incorrectly rather than whether a call was missed. Each independent contractor referee determines how to perform their duties on the field; neither NWISR nor the facility exercises any control over the services provided.
+
+According to the IRS, You are not an independent contractor if you perform services that can be controlled by an employer (what will be done and how it will be done). This applies even if you are given freedom of action. What matters is that the employer has the legal right to control the details of how the services are
+performed Nothing in this document changes prior agreements. It reaffirms the established nature of our relationships, clarifying how independent contractor law operates in this context."
 
 Since most games we oversee are for adults, we require all referees to be at least 17 years old. 
 
