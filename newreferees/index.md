@@ -2,7 +2,6 @@
 layout: page
 permalink: newreferees/
 title: Important Referee Information
-published: true
 ---
 To clarify, the role of the Northwest Indoor Soccer Referee Association (NWISR) in futsal and indoor arenas is that of an independent contractor. We are responsible for coordinating and facilitating the scheduling of
 referees based on the specific needs of each facility. In many cases, we also handle the payment of referees as a pass-through service. The referees are independent contractors of NWISR; thus, we provide some training
