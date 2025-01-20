@@ -1,15 +1,28 @@
 ---
 layout: page
 permalink: newreferees/
-title: How to Become a Referee
+title: Important Referee Information
 published: true
 ---
+To clarify, the role of the Northwest Indoor Soccer Referee Association (NWISR) in futsal and indoor arenas is that of an independent contractor. We are responsible for coordinating and facilitating the scheduling of
+referees based on the specific needs of each facility. In many cases, we also handle the payment of referees as a pass-through service. The referees are independent contractors of NWISR; thus, we provide some training
+and schedule them based on their stated availability. Each referee is responsible for providing their uniform and equipment and performing their duties based on their training and experience.
 
-We welcome new individuals to join our association. Since most of the games we oversee are for adults, we require all referees to be at least 17 years old. Many of our referees began their journey as USSF-registered referees, having completed the USSF training course and officiated several outdoor games before joining us. While this background is highly recommended, we have also seen successful referees who have experience playing indoor or futsal soccer. If you are an experienced outdoor referee and have played indoor soccer, we would love to have you on our team. However, you do not need to meet both of these criteria to join. As long as you are over 17 years old and eager to learn about indoor and futsal soccer, you are welcome to become a member of our association.
+Concerning the facilities, referees do not have a legal relationship with them. The relationship exists solely between the facility and NWISR. Facilities cater to customers, including players and teams. NWISR  and our independent contractor referees do not participate in assessing player eligibility for any specific league, division, team, or game. Some facilities request that NWISR instruct referees to verify player identification cards as a means of confirming player eligibility. Conversely, other facilities have staff members who operate under the employer&#39;s direction to conduct secondary verification of the referees checks.
 
+NWISR encourages referees to examine player identification cards, as requested by the facility, noting that thisprocess has revenue and liability implications by ensuring players possess valid cards. However, from NWISR's and the referees&#39; perspectives, the importance of the player identification card mainly arises if a red card is issued. Referees are responsible for documenting incidents and submitting the player card to facility staff upon issuing a red card. Some facilities may request that NWISR review red card incidents or other on-field occurrences through video analysis.
 
+The NWISR maintains forms on our website and reviews observations, reports, and videos from facilities
+regarding referee performance and rule interpretations. Players often focus on one or two specific calls made during a game, generally subject to interpretation. Referees have broad discretion to rely on their training and experience. When we conduct reviews, we focus on whether a referee exhibits inherent bias or applies rules incorrectly rather than whether a call was missed. Each independent contractor referee determines how to perform their duties on the field; neither NWISR nor the facility exercises any control over the services provided.
+
+According to the IRS, “You are not an independent contractor if you perform services that can be controlled by an employer (what will be done and how it will be done). This applies even if you are given freedom of action. What matters is that the employer has the legal right to control the details of how the services are
+performed.”
+
+Nothing in this document changes prior agreements. It reaffirms the established nature of our relationships,
+clarifying how independent contractor law operates in this context.
+
+Since most of the games we oversee are for adults, we require all referees to be at least 17 years old. 
 **1. Here are the steps to become a part of our association.** 
-
 They must be done in the order noted.You must create a Payment Center Account on Horizon web ref – the instructions are here 
 
 **https://horizonwebref.uservoice.com/knowledgebase/articles/1908505-how-to-create-a-receiver-account**
@@ -101,4 +114,3 @@ For more information, and to see information about what level of games they offe
 |Rose City Futsal|3|http://rosecityfutsal.com/|
 |Salmon Creek Indoor|2|https://scsoccerarena.com/|
 |Tualatin Indoor Soccer|1/2*|http://www.tualatinindoor.com/|
- 
