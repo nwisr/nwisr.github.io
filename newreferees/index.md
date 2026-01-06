@@ -58,7 +58,7 @@ That, in a nutshell, is it. Once you are perceived negatively, every little thin
 
 1. Commercially manufactured referee shirt of any brand in any color and any sleeve length. In generally good repair (no holes, not severely faded, etc.) You should always have two or three different colors with you in case you conflict with teams.
 
-2. Shorts or “Sweat” pants—should be solid black or navy blue with little or no decoration or trim of other colors. Can be commercially manufactured referee shorts or pants.
+2. Shorts or “Sweat” pants—should be solid black with little or no decoration or trim of other colors. Can be commercially manufactured referee shorts or pants.
 
 3. Black socks, or black with white trim, again, can be but do not need to be actual referee socks.
 
