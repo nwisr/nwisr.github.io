@@ -96,10 +96,10 @@ The chart below lists each facility that we service and the payments, per team a
 
 |Facility|Per team fee|Per game fee|Per hour fee|Per minute fee|
 |:-------|-----------:|-----------:|-----------:|-------------:|
-|Mittleman Jewish CC|$11.50|$23|$24.00|$0.45|
-|Portland Indoor|$11.50|$23|$24.00|$0.45|
+|Mittleman Jewish CC|$12.50|$25|$25.00|$0.45|
+|Portland Indoor|$12.50|$25|$25.00|$0.45|
 |Rose City Futsal|$12.50|$25|$25.00|$0.42|
-|Salmon Creek Indoor|$11.50|$23|$24.00|$0.45|
+|Salmon Creek Indoor|$15.50|$25|$25.00|$0.45|
 |Tualatin Indoor Soccer|$12.50|$25|$25.00|$0.45|
  
 For more information, and to see information about what level of games they offer, look at the facility website:
