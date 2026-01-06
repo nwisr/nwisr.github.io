@@ -107,7 +107,7 @@ For more information, and to see information about what level of games they offe
 |Facility|# floor|Website|
 |:-------|:-----:|:------|
 |Mittleman Jewish CC|1|https://www.oregonjcc.org/|
-|Portland Indoor|1|Portland Indoor|
+|Portland Indoor|1|https://pdxindoorsoccer.com/|
 |Rose City Futsal -Tigard|3|http://rosecityfutsal.com/|
 |Rose City Futsal|3|http://rosecityfutsal.com/|
 |Salmon Creek Indoor|2|https://scsoccerarena.com/|
