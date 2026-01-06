@@ -58,14 +58,15 @@ That, in a nutshell, is it. Once you are perceived negatively, every little thin
 
 1. Commercially manufactured referee shirt of any brand in any color and any sleeve length. In generally good repair (no holes, not severely faded, etc.) You should always have two or three different colors with you in case you conflict with teams.
 
-2. Shorts or “Sweat” pants—should be solid black or navy blue with little or no decoration or trim of other colors. Can be commercially manufactured referee shorts or pants, but does not need to be.
+2. Shorts or “Sweat” pants—should be solid black or navy blue with little or no decoration or trim of other colors. Can be commercially manufactured referee shorts or pants.
 
 3. Black socks, or black with white trim, again, can be but do not need to be actual referee socks.
 
 4. Black shoes, of any brand, should be shoes that you would allow a player to play in (e.g. not cleats) 5.Logos are fine.
-6.NWISR Badge.
+6.NWISR Badge.Must be worn by any and all referees when refereeing 
 7. Whistle(s) & lanyard
 8. Red, Yellow, & Blue cards – you MUST have a blue card before doing any indoor game.
+9. Referees are not allowed to wear hats as part of their referee uniform when officiating on the field.
 
 **8. Do on-field training with a senior referee.** 
 
