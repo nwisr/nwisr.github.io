@@ -63,7 +63,7 @@ That, in a nutshell, is it. Once you are perceived negatively, every little thin
 3. Black socks, or black with white trim, again, can be but do not need to be actual referee socks.
 
 4. Black shoes, of any brand, should be shoes that you would allow a player to play in (e.g. not cleats) 5.Logos are fine.
-6.NWISR Badge.Must be worn by any and all referees when refereeing 
+6.NWISR Badge.Must be worn by all referees when refereeing 
 7. Whistle(s) & lanyard
 8. Red, Yellow, & Blue cards – you MUST have a blue card before doing any indoor game.
 9. Referees are not allowed to wear hats as part of their referee uniform when officiating on the field.
